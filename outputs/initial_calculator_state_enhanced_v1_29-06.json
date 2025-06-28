@@ -1,0 +1,2844 @@
+{
+  "pipeline_version": "v1.2_enhanced_with_gemini",
+  "timestamp": "2025-06-29T04:03:45.202040",
+  "image_info": {
+    "filename": "initial_calculator_state.png",
+    "path": "temp_screenshots\\initial_calculator_state.png"
+  },
+  "detection_summary": {
+    "yolo_count": 30,
+    "ocr_count": 39,
+    "merged_count": 63,
+    "total_input": 69,
+    "merge_efficiency": "6 removed"
+  },
+  "seraphine_summary": {
+    "total_groups": 38,
+    "horizontal_groups": 34,
+    "vertical_groups": 4,
+    "long_box_groups": 0,
+    "grouping_efficiency": 0.6031746031746031
+  },
+  "gemini_summary": {
+    "enabled": true,
+    "total_icons_analyzed": 59,
+    "successful_analyses": 1,
+    "analysis_time": 25.259439
+  },
+  "timing_breakdown": {
+    "total_detection_time": 6.231000900268555,
+    "parallel_detection_time": 6.0760016441345215,
+    "merge_time": 0.06299448013305664,
+    "seraphine_time": 0.02222299575805664,
+    "gemini_time": 25.259439
+  },
+  "detections": {
+    "yolo_detections": [
+      {
+        "bbox": [
+          1137,
+          777,
+          1522,
+          872
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y001"
+      },
+      {
+        "bbox": [
+          1140,
+          318,
+          1523,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y002"
+      },
+      {
+        "bbox": [
+          385,
+          318,
+          766,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y003"
+      },
+      {
+        "bbox": [
+          762,
+          319,
+          1144,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y004"
+      },
+      {
+        "bbox": [
+          1140,
+          685,
+          1520,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y005"
+      },
+      {
+        "bbox": [
+          5,
+          317,
+          389,
+          411
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y006"
+      },
+      {
+        "bbox": [
+          762,
+          410,
+          1144,
+          502
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y007"
+      },
+      {
+        "bbox": [
+          384,
+          410,
+          766,
+          502
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y008"
+      },
+      {
+        "bbox": [
+          5,
+          410,
+          390,
+          503
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y009"
+      },
+      {
+        "bbox": [
+          762,
+          685,
+          1144,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y010"
+      },
+      {
+        "bbox": [
+          761,
+          593,
+          1143,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y011"
+      },
+      {
+        "bbox": [
+          4,
+          779,
+          391,
+          876
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y012"
+      },
+      {
+        "bbox": [
+          760,
+          501,
+          1144,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y013"
+      },
+      {
+        "bbox": [
+          382,
+          685,
+          766,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y014"
+      },
+      {
+        "bbox": [
+          381,
+          500,
+          766,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y015"
+      },
+      {
+        "bbox": [
+          5,
+          502,
+          389,
+          596
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y016"
+      },
+      {
+        "bbox": [
+          382,
+          592,
+          766,
+          687
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y017"
+      },
+      {
+        "bbox": [
+          1141,
+          410,
+          1523,
+          503
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y018"
+      },
+      {
+        "bbox": [
+          4,
+          685,
+          390,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y019"
+      },
+      {
+        "bbox": [
+          1142,
+          502,
+          1521,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y020"
+      },
+      {
+        "bbox": [
+          4,
+          593,
+          390,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y021"
+      },
+      {
+        "bbox": [
+          1708,
+          6,
+          1748,
+          45
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y022"
+      },
+      {
+        "bbox": [
+          1142,
+          593,
+          1521,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y023"
+      },
+      {
+        "bbox": [
+          1751,
+          7,
+          1793,
+          43
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y024"
+      },
+      {
+        "bbox": [
+          1798,
+          7,
+          1839,
+          43
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y025"
+      },
+      {
+        "bbox": [
+          384,
+          778,
+          768,
+          873
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y026"
+      },
+      {
+        "bbox": [
+          31,
+          49,
+          177,
+          79
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y027"
+      },
+      {
+        "bbox": [
+          1533,
+          52,
+          1579,
+          71
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y028"
+      },
+      {
+        "bbox": [
+          1600,
+          52,
+          1656,
+          72
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y029"
+      },
+      {
+        "bbox": [
+          763,
+          778,
+          1145,
+          874
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "y_id": "Y030"
+      }
+    ],
+    "ocr_detections": [
+      {
+        "bbox": [
+          1318,
+          814,
+          1344,
+          834
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O001"
+      },
+      {
+        "bbox": [
+          1522,
+          812,
+          1765,
+          835
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O002"
+      },
+      {
+        "bbox": [
+          564,
+          810,
+          590,
+          842
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O003"
+      },
+      {
+        "bbox": [
+          182,
+          807,
+          217,
+          841
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O004"
+      },
+      {
+        "bbox": [
+          1522,
+          788,
+          1688,
+          812
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O005"
+      },
+      {
+        "bbox": [
+          1320,
+          721,
+          1343,
+          740
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O006"
+      },
+      {
+        "bbox": [
+          190,
+          721,
+          210,
+          746
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O007"
+      },
+      {
+        "bbox": [
+          941,
+          717,
+          966,
+          751
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O008"
+      },
+      {
+        "bbox": [
+          564,
+          717,
+          588,
+          749
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O009"
+      },
+      {
+        "bbox": [
+          190,
+          627,
+          211,
+          653
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O010"
+      },
+      {
+        "bbox": [
+          943,
+          625,
+          966,
+          657
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O011"
+      },
+      {
+        "bbox": [
+          565,
+          625,
+          588,
+          657
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O012"
+      },
+      {
+        "bbox": [
+          190,
+          536,
+          211,
+          560
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O013"
+      },
+      {
+        "bbox": [
+          1318,
+          534,
+          1343,
+          559
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O014"
+      },
+      {
+        "bbox": [
+          941,
+          532,
+          966,
+          564
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O015"
+      },
+      {
+        "bbox": [
+          564,
+          532,
+          590,
+          564
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O016"
+      },
+      {
+        "bbox": [
+          563,
+          440,
+          593,
+          468
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O017"
+      },
+      {
+        "bbox": [
+          937,
+          438,
+          971,
+          470
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O018"
+      },
+      {
+        "bbox": [
+          185,
+          438,
+          216,
+          470
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O019"
+      },
+      {
+        "bbox": [
+          943,
+          352,
+          966,
+          376
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O020"
+      },
+      {
+        "bbox": [
+          561,
+          351,
+          594,
+          379
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O021"
+      },
+      {
+        "bbox": [
+          1317,
+          349,
+          1347,
+          376
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O022"
+      },
+      {
+        "bbox": [
+          185,
+          349,
+          214,
+          378
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O023"
+      },
+      {
+        "bbox": [
+          354,
+          274,
+          386,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O024"
+      },
+      {
+        "bbox": [
+          275,
+          274,
+          305,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O025"
+      },
+      {
+        "bbox": [
+          194,
+          274,
+          226,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O026"
+      },
+      {
+        "bbox": [
+          114,
+          274,
+          148,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O027"
+      },
+      {
+        "bbox": [
+          35,
+          274,
+          68,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O028"
+      },
+      {
+        "bbox": [
+          1472,
+          146,
+          1509,
+          217
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O029"
+      },
+      {
+        "bbox": [
+          1531,
+          103,
+          1674,
+          128
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O030"
+      },
+      {
+        "bbox": [
+          151,
+          52,
+          176,
+          78
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O031"
+      },
+      {
+        "bbox": [
+          51,
+          52,
+          140,
+          78
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O032"
+      },
+      {
+        "bbox": [
+          19,
+          52,
+          46,
+          75
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O033"
+      },
+      {
+        "bbox": [
+          1596,
+          51,
+          1659,
+          77
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O034"
+      },
+      {
+        "bbox": [
+          1529,
+          51,
+          1583,
+          75
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O035"
+      },
+      {
+        "bbox": [
+          25,
+          15,
+          44,
+          33
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O036"
+      },
+      {
+        "bbox": [
+          1807,
+          12,
+          1830,
+          36
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O037"
+      },
+      {
+        "bbox": [
+          1761,
+          12,
+          1785,
+          36
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O038"
+      },
+      {
+        "bbox": [
+          51,
+          12,
+          114,
+          38
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "o_id": "O039"
+      }
+    ],
+    "merged_detections": [
+      {
+        "bbox": [
+          1137,
+          777,
+          1522,
+          872
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 0,
+        "y_id": "Y001",
+        "merged_id": 0,
+        "m_id": "M001"
+      },
+      {
+        "bbox": [
+          1140,
+          318,
+          1523,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 1,
+        "y_id": "Y002",
+        "merged_id": 1,
+        "m_id": "M002"
+      },
+      {
+        "bbox": [
+          385,
+          318,
+          766,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 2,
+        "y_id": "Y003",
+        "merged_id": 2,
+        "m_id": "M003"
+      },
+      {
+        "bbox": [
+          762,
+          319,
+          1144,
+          410
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 3,
+        "y_id": "Y004",
+        "merged_id": 3,
+        "m_id": "M004"
+      },
+      {
+        "bbox": [
+          1140,
+          685,
+          1520,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 4,
+        "y_id": "Y005",
+        "merged_id": 4,
+        "m_id": "M005"
+      },
+      {
+        "bbox": [
+          5,
+          317,
+          389,
+          411
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 5,
+        "y_id": "Y006",
+        "merged_id": 5,
+        "m_id": "M006"
+      },
+      {
+        "bbox": [
+          762,
+          410,
+          1144,
+          502
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 6,
+        "y_id": "Y007",
+        "merged_id": 6,
+        "m_id": "M007"
+      },
+      {
+        "bbox": [
+          384,
+          410,
+          766,
+          502
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 7,
+        "y_id": "Y008",
+        "merged_id": 7,
+        "m_id": "M008"
+      },
+      {
+        "bbox": [
+          5,
+          410,
+          390,
+          503
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 8,
+        "y_id": "Y009",
+        "merged_id": 8,
+        "m_id": "M009"
+      },
+      {
+        "bbox": [
+          762,
+          685,
+          1144,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 9,
+        "y_id": "Y010",
+        "merged_id": 9,
+        "m_id": "M010"
+      },
+      {
+        "bbox": [
+          761,
+          593,
+          1143,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 10,
+        "y_id": "Y011",
+        "merged_id": 10,
+        "m_id": "M011"
+      },
+      {
+        "bbox": [
+          4,
+          779,
+          391,
+          876
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 11,
+        "y_id": "Y012",
+        "merged_id": 11,
+        "m_id": "M012"
+      },
+      {
+        "bbox": [
+          760,
+          501,
+          1144,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 12,
+        "y_id": "Y013",
+        "merged_id": 12,
+        "m_id": "M013"
+      },
+      {
+        "bbox": [
+          382,
+          685,
+          766,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 13,
+        "y_id": "Y014",
+        "merged_id": 13,
+        "m_id": "M014"
+      },
+      {
+        "bbox": [
+          381,
+          500,
+          766,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 14,
+        "y_id": "Y015",
+        "merged_id": 14,
+        "m_id": "M015"
+      },
+      {
+        "bbox": [
+          5,
+          502,
+          389,
+          596
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 15,
+        "y_id": "Y016",
+        "merged_id": 15,
+        "m_id": "M016"
+      },
+      {
+        "bbox": [
+          382,
+          592,
+          766,
+          687
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 16,
+        "y_id": "Y017",
+        "merged_id": 16,
+        "m_id": "M017"
+      },
+      {
+        "bbox": [
+          1141,
+          410,
+          1523,
+          503
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 17,
+        "y_id": "Y018",
+        "merged_id": 17,
+        "m_id": "M018"
+      },
+      {
+        "bbox": [
+          4,
+          685,
+          390,
+          781
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 18,
+        "y_id": "Y019",
+        "merged_id": 18,
+        "m_id": "M019"
+      },
+      {
+        "bbox": [
+          1142,
+          502,
+          1521,
+          595
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 19,
+        "y_id": "Y020",
+        "merged_id": 19,
+        "m_id": "M020"
+      },
+      {
+        "bbox": [
+          4,
+          593,
+          390,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 20,
+        "y_id": "Y021",
+        "merged_id": 20,
+        "m_id": "M021"
+      },
+      {
+        "bbox": [
+          1708,
+          6,
+          1748,
+          45
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 21,
+        "y_id": "Y022",
+        "merged_id": 21,
+        "m_id": "M022"
+      },
+      {
+        "bbox": [
+          1142,
+          593,
+          1521,
+          688
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 22,
+        "y_id": "Y023",
+        "merged_id": 22,
+        "m_id": "M023"
+      },
+      {
+        "bbox": [
+          1751,
+          7,
+          1793,
+          43
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 23,
+        "y_id": "Y024",
+        "merged_id": 23,
+        "m_id": "M024"
+      },
+      {
+        "bbox": [
+          1798,
+          7,
+          1839,
+          43
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 24,
+        "y_id": "Y025",
+        "merged_id": 24,
+        "m_id": "M025"
+      },
+      {
+        "bbox": [
+          384,
+          778,
+          768,
+          873
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 25,
+        "y_id": "Y026",
+        "merged_id": 25,
+        "m_id": "M026"
+      },
+      {
+        "bbox": [
+          31,
+          49,
+          177,
+          79
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 26,
+        "y_id": "Y027",
+        "merged_id": 26,
+        "m_id": "M027"
+      },
+      {
+        "bbox": [
+          1529,
+          51,
+          1583,
+          75
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 34,
+        "o_id": "O035",
+        "merged_id": 27,
+        "m_id": "M028"
+      },
+      {
+        "bbox": [
+          1596,
+          51,
+          1659,
+          77
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 33,
+        "o_id": "O034",
+        "merged_id": 28,
+        "m_id": "M029"
+      },
+      {
+        "bbox": [
+          763,
+          778,
+          1145,
+          874
+        ],
+        "type": "icon",
+        "source": "yolo",
+        "confidence": 1.0,
+        "id": 29,
+        "y_id": "Y030",
+        "merged_id": 29,
+        "m_id": "M030"
+      },
+      {
+        "bbox": [
+          1318,
+          814,
+          1344,
+          834
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 0,
+        "o_id": "O001",
+        "merged_id": 30,
+        "m_id": "M031"
+      },
+      {
+        "bbox": [
+          1522,
+          812,
+          1765,
+          835
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 1,
+        "o_id": "O002",
+        "merged_id": 31,
+        "m_id": "M032"
+      },
+      {
+        "bbox": [
+          564,
+          810,
+          590,
+          842
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 2,
+        "o_id": "O003",
+        "merged_id": 32,
+        "m_id": "M033"
+      },
+      {
+        "bbox": [
+          182,
+          807,
+          217,
+          841
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 3,
+        "o_id": "O004",
+        "merged_id": 33,
+        "m_id": "M034"
+      },
+      {
+        "bbox": [
+          1522,
+          788,
+          1688,
+          812
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 4,
+        "o_id": "O005",
+        "merged_id": 34,
+        "m_id": "M035"
+      },
+      {
+        "bbox": [
+          1320,
+          721,
+          1343,
+          740
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 5,
+        "o_id": "O006",
+        "merged_id": 35,
+        "m_id": "M036"
+      },
+      {
+        "bbox": [
+          190,
+          721,
+          210,
+          746
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 6,
+        "o_id": "O007",
+        "merged_id": 36,
+        "m_id": "M037"
+      },
+      {
+        "bbox": [
+          941,
+          717,
+          966,
+          751
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 7,
+        "o_id": "O008",
+        "merged_id": 37,
+        "m_id": "M038"
+      },
+      {
+        "bbox": [
+          564,
+          717,
+          588,
+          749
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 8,
+        "o_id": "O009",
+        "merged_id": 38,
+        "m_id": "M039"
+      },
+      {
+        "bbox": [
+          190,
+          627,
+          211,
+          653
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 9,
+        "o_id": "O010",
+        "merged_id": 39,
+        "m_id": "M040"
+      },
+      {
+        "bbox": [
+          943,
+          625,
+          966,
+          657
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 10,
+        "o_id": "O011",
+        "merged_id": 40,
+        "m_id": "M041"
+      },
+      {
+        "bbox": [
+          565,
+          625,
+          588,
+          657
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 11,
+        "o_id": "O012",
+        "merged_id": 41,
+        "m_id": "M042"
+      },
+      {
+        "bbox": [
+          190,
+          536,
+          211,
+          560
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 12,
+        "o_id": "O013",
+        "merged_id": 42,
+        "m_id": "M043"
+      },
+      {
+        "bbox": [
+          1318,
+          534,
+          1343,
+          559
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 13,
+        "o_id": "O014",
+        "merged_id": 43,
+        "m_id": "M044"
+      },
+      {
+        "bbox": [
+          941,
+          532,
+          966,
+          564
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 14,
+        "o_id": "O015",
+        "merged_id": 44,
+        "m_id": "M045"
+      },
+      {
+        "bbox": [
+          564,
+          532,
+          590,
+          564
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 15,
+        "o_id": "O016",
+        "merged_id": 45,
+        "m_id": "M046"
+      },
+      {
+        "bbox": [
+          563,
+          440,
+          593,
+          468
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 16,
+        "o_id": "O017",
+        "merged_id": 46,
+        "m_id": "M047"
+      },
+      {
+        "bbox": [
+          937,
+          438,
+          971,
+          470
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 17,
+        "o_id": "O018",
+        "merged_id": 47,
+        "m_id": "M048"
+      },
+      {
+        "bbox": [
+          185,
+          438,
+          216,
+          470
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 18,
+        "o_id": "O019",
+        "merged_id": 48,
+        "m_id": "M049"
+      },
+      {
+        "bbox": [
+          943,
+          352,
+          966,
+          376
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 19,
+        "o_id": "O020",
+        "merged_id": 49,
+        "m_id": "M050"
+      },
+      {
+        "bbox": [
+          561,
+          351,
+          594,
+          379
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 20,
+        "o_id": "O021",
+        "merged_id": 50,
+        "m_id": "M051"
+      },
+      {
+        "bbox": [
+          1317,
+          349,
+          1347,
+          376
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 21,
+        "o_id": "O022",
+        "merged_id": 51,
+        "m_id": "M052"
+      },
+      {
+        "bbox": [
+          185,
+          349,
+          214,
+          378
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 22,
+        "o_id": "O023",
+        "merged_id": 52,
+        "m_id": "M053"
+      },
+      {
+        "bbox": [
+          354,
+          274,
+          386,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 23,
+        "o_id": "O024",
+        "merged_id": 53,
+        "m_id": "M054"
+      },
+      {
+        "bbox": [
+          275,
+          274,
+          305,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 24,
+        "o_id": "O025",
+        "merged_id": 54,
+        "m_id": "M055"
+      },
+      {
+        "bbox": [
+          194,
+          274,
+          226,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 25,
+        "o_id": "O026",
+        "merged_id": 55,
+        "m_id": "M056"
+      },
+      {
+        "bbox": [
+          114,
+          274,
+          148,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 26,
+        "o_id": "O027",
+        "merged_id": 56,
+        "m_id": "M057"
+      },
+      {
+        "bbox": [
+          35,
+          274,
+          68,
+          300
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 27,
+        "o_id": "O028",
+        "merged_id": 57,
+        "m_id": "M058"
+      },
+      {
+        "bbox": [
+          1472,
+          146,
+          1509,
+          217
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 28,
+        "o_id": "O029",
+        "merged_id": 58,
+        "m_id": "M059"
+      },
+      {
+        "bbox": [
+          1531,
+          103,
+          1674,
+          128
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 29,
+        "o_id": "O030",
+        "merged_id": 59,
+        "m_id": "M060"
+      },
+      {
+        "bbox": [
+          19,
+          52,
+          46,
+          75
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 32,
+        "o_id": "O033",
+        "merged_id": 60,
+        "m_id": "M061"
+      },
+      {
+        "bbox": [
+          25,
+          15,
+          44,
+          33
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 35,
+        "o_id": "O036",
+        "merged_id": 61,
+        "m_id": "M062"
+      },
+      {
+        "bbox": [
+          51,
+          12,
+          114,
+          38
+        ],
+        "type": "text",
+        "source": "ocr_det",
+        "confidence": 1.0,
+        "id": 38,
+        "o_id": "O039",
+        "merged_id": 62,
+        "m_id": "M063"
+      }
+    ]
+  },
+  "seraphine_gemini_groups": {
+    "H0": {
+      "H0_1": {
+        "bbox": [
+          1522,
+          812,
+          1765,
+          835
+        ],
+        "g_icon_name": "Go to Settings to activate Windows.",
+        "g_brief": "System message prompting user to activate Windows",
+        "m_id": "M032",
+        "y_id": null,
+        "o_id": "O002",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H1": {
+      "H1_1": {
+        "bbox": [
+          19,
+          52,
+          46,
+          75
+        ],
+        "g_icon_name": "Hamburger Menu",
+        "g_brief": "Opens or toggles a main menu for navigation or options",
+        "m_id": "M061",
+        "y_id": null,
+        "o_id": "O033",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H2": {
+      "H2_1": {
+        "bbox": [
+          25,
+          15,
+          44,
+          33
+        ],
+        "g_icon_name": "Calculator Icon",
+        "g_brief": "Represents the calculator application",
+        "m_id": "M062",
+        "y_id": null,
+        "o_id": "O036",
+        "type": "text",
+        "source": "ocr_det"
+      },
+      "H2_2": {
+        "bbox": [
+          51,
+          12,
+          114,
+          38
+        ],
+        "g_icon_name": "Calculator",
+        "g_brief": "Displays the name of the application",
+        "m_id": "M063",
+        "y_id": null,
+        "o_id": "O039",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H3": {
+      "H3_1": {
+        "bbox": [
+          31,
+          49,
+          177,
+          79
+        ],
+        "g_icon_name": "Standard",
+        "g_brief": "Indicates the current mode or type of calculator",
+        "m_id": "M027",
+        "y_id": "Y027",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    },
+    "H4": {
+      "H4_1": {
+        "bbox": [
+          35,
+          274,
+          68,
+          300
+        ],
+        "g_icon_name": "Expand/Collapse View",
+        "g_brief": "Changes the layout or size of the calculator window or pane",
+        "m_id": "M058",
+        "y_id": null,
+        "o_id": "O028",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H5": {
+      "H5_1": {
+        "bbox": [
+          114,
+          274,
+          148,
+          300
+        ],
+        "g_icon_name": "MC",
+        "g_brief": "Clears the calculator's memory",
+        "m_id": "M057",
+        "y_id": null,
+        "o_id": "O027",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H6": {
+      "H6_1": {
+        "bbox": [
+          182,
+          807,
+          217,
+          841
+        ],
+        "g_icon_name": "MR",
+        "g_brief": "Recalls the value stored in the calculator's memory",
+        "m_id": "M034",
+        "y_id": null,
+        "o_id": "O004",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H7": {
+      "H7_1": {
+        "bbox": [
+          185,
+          349,
+          214,
+          378
+        ],
+        "g_icon_name": "%",
+        "g_brief": "Calculates percentage of a number",
+        "m_id": "M053",
+        "y_id": null,
+        "o_id": "O023",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H8": {
+      "H8_1": {
+        "bbox": [
+          185,
+          438,
+          216,
+          470
+        ],
+        "g_icon_name": "1/x",
+        "g_brief": "Calculates the reciprocal of a number",
+        "m_id": "M049",
+        "y_id": null,
+        "o_id": "O019",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H9": {
+      "H9_1": {
+        "bbox": [
+          190,
+          536,
+          211,
+          560
+        ],
+        "g_icon_name": "7",
+        "g_brief": "Numerical input button for the digit seven",
+        "m_id": "M043",
+        "y_id": null,
+        "o_id": "O013",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H10": {
+      "H10_1": {
+        "bbox": [
+          190,
+          627,
+          211,
+          653
+        ],
+        "g_icon_name": "4",
+        "g_brief": "Numerical input button for the digit four",
+        "m_id": "M040",
+        "y_id": null,
+        "o_id": "O010",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H11": {
+      "H11_1": {
+        "bbox": [
+          190,
+          721,
+          210,
+          746
+        ],
+        "g_icon_name": "1",
+        "g_brief": "Numerical input button for the digit one",
+        "m_id": "M037",
+        "y_id": null,
+        "o_id": "O007",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H12": {
+      "H12_1": {
+        "bbox": [
+          275,
+          274,
+          305,
+          300
+        ],
+        "g_icon_name": "M-",
+        "g_brief": "Subtracts the displayed value from the calculator's memory",
+        "m_id": "M055",
+        "y_id": null,
+        "o_id": "O025",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H13": {
+      "H13_1": {
+        "bbox": [
+          354,
+          274,
+          386,
+          300
+        ],
+        "g_icon_name": "MS",
+        "g_brief": "Stores the displayed value into the calculator's memory",
+        "m_id": "M054",
+        "y_id": null,
+        "o_id": "O024",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H14": {
+      "H14_1": {
+        "bbox": [
+          561,
+          351,
+          594,
+          379
+        ],
+        "g_icon_name": "CE",
+        "g_brief": "Clears the last entry or number input",
+        "m_id": "M051",
+        "y_id": null,
+        "o_id": "O021",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H15": {
+      "H15_1": {
+        "bbox": [
+          563,
+          440,
+          593,
+          468
+        ],
+        "g_icon_name": "x²",
+        "g_brief": "Calculates the square of the displayed number",
+        "m_id": "M047",
+        "y_id": null,
+        "o_id": "O017",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H16": {
+      "H16_1": {
+        "bbox": [
+          564,
+          532,
+          590,
+          564
+        ],
+        "g_icon_name": "8",
+        "g_brief": "Numerical input button for the digit eight",
+        "m_id": "M046",
+        "y_id": null,
+        "o_id": "O016",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H17": {
+      "H17_1": {
+        "bbox": [
+          564,
+          717,
+          588,
+          749
+        ],
+        "g_icon_name": "2",
+        "g_brief": "Numerical input button for the digit two",
+        "m_id": "M039",
+        "y_id": null,
+        "o_id": "O009",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H18": {
+      "H18_1": {
+        "bbox": [
+          564,
+          810,
+          590,
+          842
+        ],
+        "g_icon_name": "0",
+        "g_brief": "Numerical input button for the digit zero",
+        "m_id": "M033",
+        "y_id": null,
+        "o_id": "O003",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H19": {
+      "H19_1": {
+        "bbox": [
+          565,
+          625,
+          588,
+          657
+        ],
+        "g_icon_name": "5",
+        "g_brief": "Numerical input button for the digit five",
+        "m_id": "M042",
+        "y_id": null,
+        "o_id": "O012",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H20": {
+      "H20_1": {
+        "bbox": [
+          937,
+          438,
+          971,
+          470
+        ],
+        "g_icon_name": "Square Root",
+        "g_brief": "Calculates the square root of the displayed number",
+        "m_id": "M048",
+        "y_id": null,
+        "o_id": "O018",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H21": {
+      "H21_1": {
+        "bbox": [
+          941,
+          532,
+          966,
+          564
+        ],
+        "g_icon_name": "9",
+        "g_brief": "Numerical input button for the digit nine",
+        "m_id": "M045",
+        "y_id": null,
+        "o_id": "O015",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H22": {
+      "H22_1": {
+        "bbox": [
+          941,
+          717,
+          966,
+          751
+        ],
+        "g_icon_name": "3",
+        "g_brief": "Numerical input button for the digit three",
+        "m_id": "M038",
+        "y_id": null,
+        "o_id": "O008",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H23": {
+      "H23_1": {
+        "bbox": [
+          943,
+          352,
+          966,
+          376
+        ],
+        "g_icon_name": "C",
+        "g_brief": "Clears all entries and resets the calculator",
+        "m_id": "M050",
+        "y_id": null,
+        "o_id": "O020",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H24": {
+      "H24_1": {
+        "bbox": [
+          943,
+          625,
+          966,
+          657
+        ],
+        "g_icon_name": "6",
+        "g_brief": "Numerical input button for the digit six",
+        "m_id": "M041",
+        "y_id": null,
+        "o_id": "O011",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H25": {
+      "H25_1": {
+        "bbox": [
+          1317,
+          349,
+          1347,
+          376
+        ],
+        "g_icon_name": "Backspace",
+        "g_brief": "Deletes the last digit or character entered",
+        "m_id": "M052",
+        "y_id": null,
+        "o_id": "O022",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H26": {
+      "H26_1": {
+        "bbox": [
+          1318,
+          534,
+          1343,
+          559
+        ],
+        "g_icon_name": "Multiply",
+        "g_brief": "Performs multiplication operation",
+        "m_id": "M044",
+        "y_id": null,
+        "o_id": "O014",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H27": {
+      "H27_1": {
+        "bbox": [
+          1318,
+          814,
+          1344,
+          834
+        ],
+        "g_icon_name": "Equals Sign",
+        "g_brief": "Completes the calculation and displays the result",
+        "m_id": "M031",
+        "y_id": null,
+        "o_id": "O001",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H28": {
+      "H28_1": {
+        "bbox": [
+          1320,
+          721,
+          1343,
+          740
+        ],
+        "g_icon_name": "Plus Sign",
+        "g_brief": "Performs addition operation",
+        "m_id": "M036",
+        "y_id": null,
+        "o_id": "O006",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H29": {
+      "H29_1": {
+        "bbox": [
+          1472,
+          146,
+          1509,
+          217
+        ],
+        "g_icon_name": "0",
+        "g_brief": "Numerical input button for the digit zero",
+        "m_id": "M059",
+        "y_id": null,
+        "o_id": "O029",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H30": {
+      "H30_1": {
+        "bbox": [
+          1522,
+          788,
+          1688,
+          812
+        ],
+        "g_icon_name": "Activate Windows",
+        "g_brief": "Button to initiate the Windows activation process",
+        "m_id": "M035",
+        "y_id": null,
+        "o_id": "O005",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H31": {
+      "H31_1": {
+        "bbox": [
+          1529,
+          51,
+          1583,
+          75
+        ],
+        "g_icon_name": "History",
+        "g_brief": "Toggles or displays the calculation history",
+        "m_id": "M028",
+        "y_id": null,
+        "o_id": "O035",
+        "type": "text",
+        "source": "ocr_det"
+      },
+      "H31_2": {
+        "bbox": [
+          1596,
+          51,
+          1659,
+          77
+        ],
+        "g_icon_name": "Memory",
+        "g_brief": "Toggles or displays the calculator's memory contents",
+        "m_id": "M029",
+        "y_id": null,
+        "o_id": "O034",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H32": {
+      "H32_1": {
+        "bbox": [
+          1531,
+          103,
+          1674,
+          128
+        ],
+        "g_icon_name": "There's no history yet.",
+        "g_brief": "Informational message indicating an empty calculation history",
+        "m_id": "M060",
+        "y_id": null,
+        "o_id": "O030",
+        "type": "text",
+        "source": "ocr_det"
+      }
+    },
+    "H33": {
+      "H33_1": {
+        "bbox": [
+          1708,
+          6,
+          1748,
+          45
+        ],
+        "g_icon_name": "Minimize History",
+        "g_brief": "Minimizes or collapses the history panel",
+        "m_id": "M022",
+        "y_id": "Y022",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "H33_2": {
+        "bbox": [
+          1751,
+          7,
+          1793,
+          43
+        ],
+        "g_icon_name": "Clear History",
+        "g_brief": "Clears all entries from the calculation history",
+        "m_id": "M024",
+        "y_id": "Y024",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "H33_3": {
+        "bbox": [
+          1798,
+          7,
+          1839,
+          43
+        ],
+        "g_icon_name": "Close History",
+        "g_brief": "Closes or dismisses the history panel",
+        "m_id": "M025",
+        "y_id": "Y025",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    },
+    "V0": {
+      "V0_1": {
+        "bbox": [
+          194,
+          274,
+          226,
+          300
+        ],
+        "g_icon_name": "M+",
+        "g_brief": "Adds the displayed value to the calculator's memory",
+        "m_id": "M056",
+        "y_id": null,
+        "o_id": "O026",
+        "type": "text",
+        "source": "ocr_det"
+      },
+      "V0_2": {
+        "bbox": [
+          5,
+          317,
+          389,
+          411
+        ],
+        "g_icon_name": "%",
+        "g_brief": "Calculates percentage of a number",
+        "m_id": "M006",
+        "y_id": "Y006",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V0_3": {
+        "bbox": [
+          5,
+          410,
+          390,
+          503
+        ],
+        "g_icon_name": "1/x",
+        "g_brief": "Calculates the reciprocal of a number",
+        "m_id": "M009",
+        "y_id": "Y009",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V0_4": {
+        "bbox": [
+          5,
+          502,
+          389,
+          596
+        ],
+        "g_icon_name": "7",
+        "g_brief": "Numerical input button for the digit seven",
+        "m_id": "M016",
+        "y_id": "Y016",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V0_5": {
+        "bbox": [
+          4,
+          593,
+          390,
+          688
+        ],
+        "g_icon_name": "4",
+        "g_brief": "Numerical input button for the digit four",
+        "m_id": "M021",
+        "y_id": "Y021",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V0_6": {
+        "bbox": [
+          4,
+          685,
+          390,
+          781
+        ],
+        "g_icon_name": "1",
+        "g_brief": "Numerical input button for the digit one",
+        "m_id": "M019",
+        "y_id": "Y019",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V0_7": {
+        "bbox": [
+          4,
+          779,
+          391,
+          876
+        ],
+        "g_icon_name": "unanalyzed",
+        "g_brief": "Not analyzed by Gemini",
+        "m_id": "M012",
+        "y_id": "Y012",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    },
+    "V1": {
+      "V1_1": {
+        "bbox": [
+          385,
+          318,
+          766,
+          410
+        ],
+        "g_icon_name": "CE",
+        "g_brief": "Clears the last entry or number input",
+        "m_id": "M003",
+        "y_id": "Y003",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V1_2": {
+        "bbox": [
+          384,
+          410,
+          766,
+          502
+        ],
+        "g_icon_name": "x²",
+        "g_brief": "Calculates the square of the displayed number",
+        "m_id": "M008",
+        "y_id": "Y008",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V1_3": {
+        "bbox": [
+          381,
+          500,
+          766,
+          595
+        ],
+        "g_icon_name": "8",
+        "g_brief": "Numerical input button for the digit eight",
+        "m_id": "M015",
+        "y_id": "Y015",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V1_4": {
+        "bbox": [
+          382,
+          592,
+          766,
+          687
+        ],
+        "g_icon_name": "5",
+        "g_brief": "Numerical input button for the digit five",
+        "m_id": "M017",
+        "y_id": "Y017",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V1_5": {
+        "bbox": [
+          382,
+          685,
+          766,
+          781
+        ],
+        "g_icon_name": "2",
+        "g_brief": "Numerical input button for the digit two",
+        "m_id": "M014",
+        "y_id": "Y014",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V1_6": {
+        "bbox": [
+          384,
+          778,
+          768,
+          873
+        ],
+        "g_icon_name": "unanalyzed",
+        "g_brief": "Not analyzed by Gemini",
+        "m_id": "M026",
+        "y_id": "Y026",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    },
+    "V2": {
+      "V2_1": {
+        "bbox": [
+          1140,
+          318,
+          1523,
+          410
+        ],
+        "g_icon_name": "Decimal Point",
+        "g_brief": "Inserts a decimal point into the current number",
+        "m_id": "M002",
+        "y_id": "Y002",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V2_2": {
+        "bbox": [
+          1141,
+          410,
+          1523,
+          503
+        ],
+        "g_icon_name": "Divide",
+        "g_brief": "Performs division operation",
+        "m_id": "M018",
+        "y_id": "Y018",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V2_3": {
+        "bbox": [
+          1142,
+          502,
+          1521,
+          595
+        ],
+        "g_icon_name": "Multiply",
+        "g_brief": "Performs multiplication operation",
+        "m_id": "M020",
+        "y_id": "Y020",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V2_4": {
+        "bbox": [
+          1142,
+          593,
+          1521,
+          688
+        ],
+        "g_icon_name": "Minus Sign",
+        "g_brief": "Performs subtraction operation",
+        "m_id": "M023",
+        "y_id": "Y023",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V2_5": {
+        "bbox": [
+          1140,
+          685,
+          1520,
+          781
+        ],
+        "g_icon_name": "Plus Sign",
+        "g_brief": "Performs addition operation",
+        "m_id": "M005",
+        "y_id": "Y005",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V2_6": {
+        "bbox": [
+          1137,
+          777,
+          1522,
+          872
+        ],
+        "g_icon_name": "unanalyzed",
+        "g_brief": "Not analyzed by Gemini",
+        "m_id": "M001",
+        "y_id": "Y001",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    },
+    "V3": {
+      "V3_1": {
+        "bbox": [
+          762,
+          319,
+          1144,
+          410
+        ],
+        "g_icon_name": "C",
+        "g_brief": "Clears all entries and resets the calculator",
+        "m_id": "M004",
+        "y_id": "Y004",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V3_2": {
+        "bbox": [
+          762,
+          410,
+          1144,
+          502
+        ],
+        "g_icon_name": "Cube Root",
+        "g_brief": "Calculates the cube root of the displayed number",
+        "m_id": "M007",
+        "y_id": "Y007",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V3_3": {
+        "bbox": [
+          760,
+          501,
+          1144,
+          595
+        ],
+        "g_icon_name": "9",
+        "g_brief": "Numerical input button for the digit nine",
+        "m_id": "M013",
+        "y_id": "Y013",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V3_4": {
+        "bbox": [
+          761,
+          593,
+          1143,
+          688
+        ],
+        "g_icon_name": "6",
+        "g_brief": "Numerical input button for the digit six",
+        "m_id": "M011",
+        "y_id": "Y011",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V3_5": {
+        "bbox": [
+          762,
+          685,
+          1144,
+          781
+        ],
+        "g_icon_name": "3",
+        "g_brief": "Numerical input button for the digit three",
+        "m_id": "M010",
+        "y_id": "Y010",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      },
+      "V3_6": {
+        "bbox": [
+          763,
+          778,
+          1145,
+          874
+        ],
+        "g_icon_name": "unanalyzed",
+        "g_brief": "Not analyzed by Gemini",
+        "m_id": "M030",
+        "y_id": "Y030",
+        "o_id": null,
+        "type": "icon",
+        "source": "yolo"
+      }
+    }
+  },
+  "gemini_analysis_metadata": {
+    "total_images_analyzed": 1,
+    "analysis_mode": "direct",
+    "timestamp": "2025-06-29T04:03:45.186429"
+  }
+}

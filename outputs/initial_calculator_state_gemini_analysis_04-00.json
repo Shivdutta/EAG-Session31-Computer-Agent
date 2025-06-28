@@ -1,0 +1,375 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T04:00:49.772969",
+  "analysis_duration_seconds": 24.385091,
+  "total_images_analyzed": 1,
+  "total_input_images": 1,
+  "analysis_mode": "direct",
+  "successful_analyses": 1,
+  "total_icons_found": 59,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_63_bboxes.png",
+      "image_name": "combined_groups_0_63_bboxes.png",
+      "icons_found": 59,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "Go to Settings to activate Windows.",
+          "usage": "Informational text instructing the user to activate Windows",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Calculator Application Icon",
+          "usage": "Application icon for the Calculator program",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_2",
+          "name": "Calculator",
+          "usage": "Displays the name of the current application",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "Standard",
+          "usage": "Indicates the current calculator mode, likely allowing selection of different modes",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "MC",
+          "usage": "Memory Clear; clears the calculator's memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "MR",
+          "usage": "Memory Recall; recalls the value stored in memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "+/-",
+          "usage": "Plus/Minus; changes the sign of the displayed number",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "%",
+          "usage": "Percentage; calculates a percentage of the displayed number",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "1/x",
+          "usage": "Reciprocal; calculates the reciprocal of the displayed number",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "7",
+          "usage": "Number button for the digit 7",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "4",
+          "usage": "Number button for the digit 4",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "1",
+          "usage": "Number button for the digit 1",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "M-",
+          "usage": "Memory Minus; subtracts the displayed number from memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "MS",
+          "usage": "Memory Store; stores the displayed number in memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "CE",
+          "usage": "Clear Entry; clears the last entered number or operation",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "x²",
+          "usage": "Square; calculates the square of the displayed number",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "8",
+          "usage": "Number button for the digit 8",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "2",
+          "usage": "Number button for the digit 2",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "0",
+          "usage": "Number button for the digit 0",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "5",
+          "usage": "Number button for the digit 5",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "²√x",
+          "usage": "Square Root; calculates the square root of the displayed number",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "9",
+          "usage": "Number button for the digit 9",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "3",
+          "usage": "Number button for the digit 3",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "C",
+          "usage": "Clear; clears all calculations and resets the calculator",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "6",
+          "usage": "Number button for the digit 6",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "Backspace Icon",
+          "usage": "Deletes the last digit entered",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_1",
+          "name": "X",
+          "usage": "Multiplication operator",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "Equals Sign",
+          "usage": "Performs the pending calculation",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "+",
+          "usage": "Addition operator",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": ".",
+          "usage": "Decimal point; allows input of decimal numbers",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "Activate Windows",
+          "usage": "Text indicating a system message or a button to activate the Windows operating system",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "History",
+          "usage": "Button to view the calculation history",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_2",
+          "name": "Memory",
+          "usage": "Button to view the calculator's memory functions or stored values",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_1",
+          "name": "There's no history yet.",
+          "usage": "Informational text indicating that no calculation history is available",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_1",
+          "name": "Minus Sign",
+          "usage": "Minimize button for the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_2",
+          "name": "Square Icon",
+          "usage": "Maximize or restore down button for the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_3",
+          "name": "X Icon",
+          "usage": "Close button for the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "Hamburger Menu Icon",
+          "usage": "Opens the navigation menu with various calculator modes and settings",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "M+",
+          "usage": "Memory Plus; adds the displayed number to memory",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_2",
+          "name": "%",
+          "usage": "Percentage; calculates a percentage of the displayed number",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_3",
+          "name": "1/x",
+          "usage": "Reciprocal; calculates the reciprocal of the displayed number",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_4",
+          "name": "7",
+          "usage": "Number button for the digit 7",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_5",
+          "name": "4",
+          "usage": "Number button for the digit 4",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_6",
+          "name": "1",
+          "usage": "Number button for the digit 1",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "CE",
+          "usage": "Clear Entry; clears the last entered number or operation",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "x²",
+          "usage": "Square; calculates the square of the displayed number",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_3",
+          "name": "8",
+          "usage": "Number button for the digit 8",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_4",
+          "name": "5",
+          "usage": "Number button for the digit 5",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_5",
+          "name": "2",
+          "usage": "Number button for the digit 2",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "Target Icon",
+          "usage": "All Clear; clears all calculations and resets the calculator",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_2",
+          "name": "Division Sign",
+          "usage": "Division operator",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_3",
+          "name": "X",
+          "usage": "Multiplication operator",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_4",
+          "name": "-",
+          "usage": "Subtraction operator",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_5",
+          "name": "+",
+          "usage": "Addition operator",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_1",
+          "name": "C",
+          "usage": "Clear; clears all calculations and resets the calculator",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_2",
+          "name": "³√x",
+          "usage": "Cube Root; calculates the cube root of the displayed number",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_3",
+          "name": "9",
+          "usage": "Number button for the digit 9",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_4",
+          "name": "6",
+          "usage": "Number button for the digit 6",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_5",
+          "name": "3",
+          "usage": "Number button for the digit 3",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "H0_1: \"Go to Settings to activate Windows.\" | Usage: \"Informational text instructing the user to activate Windows\"\nH1_1: \"Calculator Application Icon\" | Usage: \"Application icon for the Calculator program\"\nH1_2: \"Calculator\" | Usage: \"Displays the name of the current application\"\nH2_1: \"Standard\" | Usage: \"Indicates the current calculator mode, likely allowing selection of different modes\"\nH3_1: \"MC\" | Usage: \"Memory Clear; clears the calculator's memory\"\nH4_1: \"MR\" | Usage: \"Memory Recall; recalls the value stored in memory\"\nH5_1: \"+/-\" | Usage: \"Plus/Minus; changes the sign of the displayed number\"\nH6_1: \"%\" | Usage: \"Percentage; calculates a percentage of the displayed number\"\nH7_1: \"1/x\" | Usage: \"Reciprocal; calculates the reciprocal of the displayed number\"\nH8_1: \"7\" | Usage: \"Number button for the digit 7\"\nH9_1: \"4\" | Usage: \"Number button for the digit 4\"\nH10_1: \"1\" | Usage: \"Number button for the digit 1\"\nH11_1: \"M-\" | Usage: \"Memory Minus; subtracts the displayed number from memory\"\nH12_1: \"MS\" | Usage: \"Memory Store; stores the displayed number in memory\"\nH13_1: \"CE\" | Usage: \"Clear Entry; clears the last entered number or operation\"\nH14_1: \"x²\" | Usage: \"Square; calculates the square of the displayed number\"\nH15_1: \"8\" | Usage: \"Number button for the digit 8\"\nH16_1: \"2\" | Usage: \"Number button for the digit 2\"\nH17_1: \"0\" | Usage: \"Number button for the digit 0\"\nH18_1: \"5\" | Usage: \"Number button for the digit 5\"\nH19_1: \"²√x\" | Usage: \"Square Root; calculates the square root of the displayed number\"\nH20_1: \"9\" | Usage: \"Number button for the digit 9\"\nH21_1: \"3\" | Usage: \"Number button for the digit 3\"\nH22_1: \"C\" | Usage: \"Clear; clears all calculations and resets the calculator\"\nH23_1: \"6\" | Usage: \"Number button for the digit 6\"\nH24_1: \"Backspace Icon\" | Usage: \"Deletes the last digit entered\"\nH25_1: \"X\" | Usage: \"Multiplication operator\"\nH26_1: \"Equals Sign\" | Usage: \"Performs the pending calculation\"\nH27_1: \"+\" | Usage: \"Addition operator\"\nH28_1: \".\" | Usage: \"Decimal point; allows input of decimal numbers\"\nH29_1: \"Activate Windows\" | Usage: \"Text indicating a system message or a button to activate the Windows operating system\"\nH30_1: \"History\" | Usage: \"Button to view the calculation history\"\nH30_2: \"Memory\" | Usage: \"Button to view the calculator's memory functions or stored values\"\nH31_1: \"There's no history yet.\" | Usage: \"Informational text indicating that no calculation history is available\"\nH32_1: \"Minus Sign\" | Usage: \"Minimize button for the application window\"\nH32_2: \"Square Icon\" | Usage: \"Maximize or restore down button for the application window\"\nH32_3: \"X Icon\" | Usage: \"Close button for the application window\"\nV0_1: \"Hamburger Menu Icon\" | Usage: \"Opens the navigation menu with various calculator modes and settings\"\nV1_1: \"M+\" | Usage: \"Memory Plus; adds the displayed number to memory\"\nV1_2: \"%\" | Usage: \"Percentage; calculates a percentage of the displayed number\"\nV1_3: \"1/x\" | Usage: \"Reciprocal; calculates the reciprocal of the displayed number\"\nV1_4: \"7\" | Usage: \"Number button for the digit 7\"\nV1_5: \"4\" | Usage: \"Number button for the digit 4\"\nV1_6: \"1\" | Usage: \"Number button for the digit 1\"\nV2_1: \"CE\" | Usage: \"Clear Entry; clears the last entered number or operation\"\nV2_2: \"x²\" | Usage: \"Square; calculates the square of the displayed number\"\nV2_3: \"8\" | Usage: \"Number button for the digit 8\"\nV2_4: \"5\" | Usage: \"Number button for the digit 5\"\nV2_5: \"2\" | Usage: \"Number button for the digit 2\"\nV3_1: \"Target Icon\" | Usage: \"All Clear; clears all calculations and resets the calculator\"\nV3_2: \"Division Sign\" | Usage: \"Division operator\"\nV3_3: \"X\" | Usage: \"Multiplication operator\"\nV3_4: \"-\" | Usage: \"Subtraction operator\"\nV3_5: \"+\" | Usage: \"Addition operator\"\nV4_1: \"C\" | Usage: \"Clear; clears all calculations and resets the calculator\"\nV4_2: \"³√x\" | Usage: \"Cube Root; calculates the cube root of the displayed number\"\nV4_3: \"9\" | Usage: \"Number button for the digit 9\"\nV4_4: \"6\" | Usage: \"Number button for the digit 6\"\nV4_5: \"3\" | Usage: \"Number button for the digit 3\"",
+      "analysis_success": true
+    }
+  ]
+}

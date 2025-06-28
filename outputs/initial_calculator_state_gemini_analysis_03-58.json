@@ -1,0 +1,363 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T03:58:19.915607",
+  "analysis_duration_seconds": 23.379763,
+  "total_images_analyzed": 1,
+  "total_input_images": 1,
+  "analysis_mode": "direct",
+  "successful_analyses": 1,
+  "total_icons_found": 57,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_61_bboxes.png",
+      "image_name": "combined_groups_0_61_bboxes.png",
+      "icons_found": 57,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "Calculator Icon",
+          "usage": "Represents the calculator application or its main window.",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_2",
+          "name": "Calculator",
+          "usage": "Displays the name of the current application or mode.",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Menu & Standard Mode",
+          "usage": "Opens a menu to switch calculator modes or settings, currently in 'Standard' mode.",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "MC",
+          "usage": "Clears the value stored in the calculator's memory.",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "MR",
+          "usage": "Recalls the value currently stored in the calculator's memory.",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "+/-",
+          "usage": "Toggles the sign (positive or negative) of the displayed number.",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "%",
+          "usage": "Calculates the percentage of a number.",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the displayed number.",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "7",
+          "usage": "Enters the digit 7 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "4",
+          "usage": "Enters the digit 4 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "1",
+          "usage": "Enters the digit 1 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "M-",
+          "usage": "Subtracts the current value from the calculator's memory.",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "MS",
+          "usage": "Stores the current value in the calculator's memory.",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "CE",
+          "usage": "Clears the last entry or the current input.",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "x²",
+          "usage": "Calculates the square of the displayed number.",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "8",
+          "usage": "Enters the digit 8 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "2",
+          "usage": "Enters the digit 2 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "0",
+          "usage": "Enters the digit 0 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "5",
+          "usage": "Enters the digit 5 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "Square Root",
+          "usage": "Calculates the square root of the displayed number.",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "9",
+          "usage": "Enters the digit 9 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "3",
+          "usage": "Enters the digit 3 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "C",
+          "usage": "Clears all entries and resets the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "6",
+          "usage": "Enters the digit 6 into the calculator.",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "Backspace",
+          "usage": "Deletes the last entered digit from the display.",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "Clear Entry (X)",
+          "usage": "Clears the current input or entry.",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_1",
+          "name": "Equals",
+          "usage": "Calculates and displays the result of the current expression.",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "Add to History",
+          "usage": "Adds the current calculation to the history list.",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "0",
+          "usage": "Displays the number of items in the history.",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": "History",
+          "usage": "Tab or button to view past calculations.",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_2",
+          "name": "Memory",
+          "usage": "Tab or button to view saved memory values.",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "There's no history yet.",
+          "usage": "Informational text indicating that no calculation history is available.",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "Minimize Window",
+          "usage": "Minimizes the application window to the taskbar.",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_2",
+          "name": "Maximize/Restore Window",
+          "usage": "Maximizes or restores the application window size.",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_3",
+          "name": "Close Window",
+          "usage": "Closes the application window.",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "Menu",
+          "usage": "Opens the application menu for various options or modes.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "M+",
+          "usage": "Adds the current value to the calculator's memory.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_2",
+          "name": "%",
+          "usage": "Calculates the percentage of a number.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_3",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the displayed number.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_4",
+          "name": "7",
+          "usage": "Enters the digit 7 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_5",
+          "name": "4",
+          "usage": "Enters the digit 4 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_6",
+          "name": "1",
+          "usage": "Enters the digit 1 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "CE",
+          "usage": "Clears the last entry or the current input.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "x²",
+          "usage": "Calculates the square of the displayed number.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_3",
+          "name": "8",
+          "usage": "Enters the digit 8 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_4",
+          "name": "5",
+          "usage": "Enters the digit 5 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_5",
+          "name": "2",
+          "usage": "Enters the digit 2 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "Circled X",
+          "usage": "Clears the current calculation or entry.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_2",
+          "name": "Divide",
+          "usage": "Performs the division operation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_3",
+          "name": "Multiply",
+          "usage": "Performs the multiplication operation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_4",
+          "name": "Subtract",
+          "usage": "Performs the subtraction operation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_5",
+          "name": "Add",
+          "usage": "Performs the addition operation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_1",
+          "name": "C",
+          "usage": "Clears all entries and resets the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_2",
+          "name": "Square Root (2nd Root)",
+          "usage": "Calculates the square root of the displayed number.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_3",
+          "name": "9",
+          "usage": "Enters the digit 9 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_4",
+          "name": "6",
+          "usage": "Enters the digit 6 into the calculator.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_5",
+          "name": "3",
+          "usage": "Enters the digit 3 into the calculator.",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "H0_1: \"Calculator Icon\" | Usage: \"Represents the calculator application or its main window.\"\nH0_2: \"Calculator\" | Usage: \"Displays the name of the current application or mode.\"\nH1_1: \"Menu & Standard Mode\" | Usage: \"Opens a menu to switch calculator modes or settings, currently in 'Standard' mode.\"\nH2_1: \"MC\" | Usage: \"Clears the value stored in the calculator's memory.\"\nH3_1: \"MR\" | Usage: \"Recalls the value currently stored in the calculator's memory.\"\nH4_1: \"+/-\" | Usage: \"Toggles the sign (positive or negative) of the displayed number.\"\nH5_1: \"%\" | Usage: \"Calculates the percentage of a number.\"\nH6_1: \"1/x\" | Usage: \"Calculates the reciprocal of the displayed number.\"\nH7_1: \"7\" | Usage: \"Enters the digit 7 into the calculator.\"\nH8_1: \"4\" | Usage: \"Enters the digit 4 into the calculator.\"\nH9_1: \"1\" | Usage: \"Enters the digit 1 into the calculator.\"\nH10_1: \"M-\" | Usage: \"Subtracts the current value from the calculator's memory.\"\nH11_1: \"MS\" | Usage: \"Stores the current value in the calculator's memory.\"\nH12_1: \"CE\" | Usage: \"Clears the last entry or the current input.\"\nH13_1: \"x²\" | Usage: \"Calculates the square of the displayed number.\"\nH14_1: \"8\" | Usage: \"Enters the digit 8 into the calculator.\"\nH15_1: \"2\" | Usage: \"Enters the digit 2 into the calculator.\"\nH16_1: \"0\" | Usage: \"Enters the digit 0 into the calculator.\"\nH17_1: \"5\" | Usage: \"Enters the digit 5 into the calculator.\"\nH18_1: \"Square Root\" | Usage: \"Calculates the square root of the displayed number.\"\nH19_1: \"9\" | Usage: \"Enters the digit 9 into the calculator.\"\nH20_1: \"3\" | Usage: \"Enters the digit 3 into the calculator.\"\nH21_1: \"C\" | Usage: \"Clears all entries and resets the calculator.\"\nH22_1: \"6\" | Usage: \"Enters the digit 6 into the calculator.\"\nH23_1: \"Backspace\" | Usage: \"Deletes the last entered digit from the display.\"\nH24_1: \"Clear Entry (X)\" | Usage: \"Clears the current input or entry.\"\nH25_1: \"Equals\" | Usage: \"Calculates and displays the result of the current expression.\"\nH26_1: \"Add to History\" | Usage: \"Adds the current calculation to the history list.\"\nH27_1: \"0\" | Usage: \"Displays the number of items in the history.\"\nH28_1: \"History\" | Usage: \"Tab or button to view past calculations.\"\nH28_2: \"Memory\" | Usage: \"Tab or button to view saved memory values.\"\nH29_1: \"There's no history yet.\" | Usage: \"Informational text indicating that no calculation history is available.\"\nH30_1: \"Minimize Window\" | Usage: \"Minimizes the application window to the taskbar.\"\nH30_2: \"Maximize/Restore Window\" | Usage: \"Maximizes or restores the application window size.\"\nH30_3: \"Close Window\" | Usage: \"Closes the application window.\"\nV0_1: \"Menu\" | Usage: \"Opens the application menu for various options or modes.\"\nV1_1: \"M+\" | Usage: \"Adds the current value to the calculator's memory.\"\nV1_2: \"%\" | Usage: \"Calculates the percentage of a number.\"\nV1_3: \"1/x\" | Usage: \"Calculates the reciprocal of the displayed number.\"\nV1_4: \"7\" | Usage: \"Enters the digit 7 into the calculator.\"\nV1_5: \"4\" | Usage: \"Enters the digit 4 into the calculator.\"\nV1_6: \"1\" | Usage: \"Enters the digit 1 into the calculator.\"\nV2_1: \"CE\" | Usage: \"Clears the last entry or the current input.\"\nV2_2: \"x²\" | Usage: \"Calculates the square of the displayed number.\"\nV2_3: \"8\" | Usage: \"Enters the digit 8 into the calculator.\"\nV2_4: \"5\" | Usage: \"Enters the digit 5 into the calculator.\"\nV2_5: \"2\" | Usage: \"Enters the digit 2 into the calculator.\"\nV3_1: \"Circled X\" | Usage: \"Clears the current calculation or entry.\"\nV3_2: \"Divide\" | Usage: \"Performs the division operation.\"\nV3_3: \"Multiply\" | Usage: \"Performs the multiplication operation.\"\nV3_4: \"Subtract\" | Usage: \"Performs the subtraction operation.\"\nV3_5: \"Add\" | Usage: \"Performs the addition operation.\"\nV4_1: \"C\" | Usage: \"Clears all entries and resets the calculator.\"\nV4_2: \"Square Root (2nd Root)\" | Usage: \"Calculates the square root of the displayed number.\"\nV4_3: \"9\" | Usage: \"Enters the digit 9 into the calculator.\"\nV4_4: \"6\" | Usage: \"Enters the digit 6 into the calculator.\"\nV4_5: \"3\" | Usage: \"Enters the digit 3 into the calculator.\"",
+      "analysis_success": true
+    }
+  ]
+}

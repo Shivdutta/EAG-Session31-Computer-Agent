@@ -1,0 +1,357 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T03:11:00.848758",
+  "analysis_duration_seconds": 23.097922,
+  "total_images_analyzed": 1,
+  "total_input_images": 1,
+  "analysis_mode": "direct",
+  "successful_analyses": 1,
+  "total_icons_found": 56,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_60_bboxes.png",
+      "image_name": "combined_groups_0_60_bboxes.png",
+      "icons_found": 56,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "Standard",
+          "usage": "Displays the current calculator mode and provides options for changing it",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Calculator",
+          "usage": "Displays the application name or type",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "MC",
+          "usage": "Clears the calculator's memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "MR",
+          "usage": "Recalls the value from the calculator's memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "+/-",
+          "usage": "Changes the sign of the current number (positive to negative or vice versa)",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "%",
+          "usage": "Calculates percentage of a number",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "7",
+          "usage": "Enters the digit 7",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "4",
+          "usage": "Enters the digit 4",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "1",
+          "usage": "Enters the digit 1",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "M-",
+          "usage": "Subtracts the current number from memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "MS",
+          "usage": "Stores the current number in memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "CE",
+          "usage": "Clears the current entry without clearing memory or previous operations",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "x²",
+          "usage": "Calculates the square of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "8",
+          "usage": "Enters the digit 8",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "2",
+          "usage": "Enters the digit 2",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "0",
+          "usage": "Enters the digit 0",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "5",
+          "usage": "Enters the digit 5",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "²√x",
+          "usage": "Calculates the square root of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "9",
+          "usage": "Enters the digit 9",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "3",
+          "usage": "Enters the digit 3",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "C",
+          "usage": "Clears all input and operations from the calculator",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "6",
+          "usage": "Enters the digit 6",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "Backspace",
+          "usage": "Deletes the last digit entered or clears the current entry",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "Multiplication",
+          "usage": "Performs multiplication",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_1",
+          "name": "Division",
+          "usage": "Performs division",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "Addition",
+          "usage": "Performs addition",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "Display Value 0",
+          "usage": "Shows the current result or input value of 0",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": "History",
+          "usage": "Opens or displays the calculation history",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "There's no history yet.",
+          "usage": "Informs the user that the calculation history is empty",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "Memory",
+          "usage": "Displays or manages the stored memory values",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_1",
+          "name": "Subtraction",
+          "usage": "Performs subtraction",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_2",
+          "name": "Clipboard Icon",
+          "usage": "Manages or clears the memory list",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_3",
+          "name": "Close Button",
+          "usage": "Closes the current section or panel, likely the memory panel",
+          "group_type": "H"
+        },
+        {
+          "id": "HL0_1",
+          "name": "",
+          "usage": "Input or display area for calculator operations and results",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "M+",
+          "usage": "Adds the current number to memory",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_2",
+          "name": "%",
+          "usage": "Calculates percentage of a number",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_3",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_4",
+          "name": "7",
+          "usage": "Enters the digit 7",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_5",
+          "name": "4",
+          "usage": "Enters the digit 4",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_6",
+          "name": "1",
+          "usage": "Enters the digit 1",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "CE",
+          "usage": "Clears the current entry without clearing memory or previous operations",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_2",
+          "name": "x²",
+          "usage": "Calculates the square of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_3",
+          "name": "8",
+          "usage": "Enters the digit 8",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_4",
+          "name": "5",
+          "usage": "Enters the digit 5",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_5",
+          "name": "2",
+          "usage": "Enters the digit 2",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "C",
+          "usage": "Clears all input and operations from the calculator",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "²√x",
+          "usage": "Calculates the square root of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_3",
+          "name": "9",
+          "usage": "Enters the digit 9",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_4",
+          "name": "6",
+          "usage": "Enters the digit 6",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_5",
+          "name": "3",
+          "usage": "Enters the digit 3",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "Backspace",
+          "usage": "Deletes the last digit entered or clears the current entry",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_2",
+          "name": "Division",
+          "usage": "Performs division",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_3",
+          "name": "Multiplication",
+          "usage": "Performs multiplication",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_4",
+          "name": "Subtraction",
+          "usage": "Performs subtraction",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_5",
+          "name": "Addition",
+          "usage": "Performs addition",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "H0_1: \"Standard\" | Usage: \"Displays the current calculator mode and provides options for changing it\"\nH1_1: \"Calculator\" | Usage: \"Displays the application name or type\"\nH2_1: \"MC\" | Usage: \"Clears the calculator's memory\"\nH3_1: \"MR\" | Usage: \"Recalls the value from the calculator's memory\"\nH4_1: \"+/-\" | Usage: \"Changes the sign of the current number (positive to negative or vice versa)\"\nH5_1: \"1/x\" | Usage: \"Calculates the reciprocal of the current number\"\nH6_1: \"%\" | Usage: \"Calculates percentage of a number\"\nH7_1: \"7\" | Usage: \"Enters the digit 7\"\nH8_1: \"4\" | Usage: \"Enters the digit 4\"\nH9_1: \"1\" | Usage: \"Enters the digit 1\"\nH10_1: \"M-\" | Usage: \"Subtracts the current number from memory\"\nH11_1: \"MS\" | Usage: \"Stores the current number in memory\"\nH12_1: \"CE\" | Usage: \"Clears the current entry without clearing memory or previous operations\"\nH13_1: \"x²\" | Usage: \"Calculates the square of the current number\"\nH14_1: \"8\" | Usage: \"Enters the digit 8\"\nH15_1: \"2\" | Usage: \"Enters the digit 2\"\nH16_1: \"0\" | Usage: \"Enters the digit 0\"\nH17_1: \"5\" | Usage: \"Enters the digit 5\"\nH18_1: \"²√x\" | Usage: \"Calculates the square root of the current number\"\nH19_1: \"9\" | Usage: \"Enters the digit 9\"\nH20_1: \"3\" | Usage: \"Enters the digit 3\"\nH21_1: \"C\" | Usage: \"Clears all input and operations from the calculator\"\nH22_1: \"6\" | Usage: \"Enters the digit 6\"\nH23_1: \"Backspace\" | Usage: \"Deletes the last digit entered or clears the current entry\"\nH24_1: \"Multiplication\" | Usage: \"Performs multiplication\"\nH25_1: \"Division\" | Usage: \"Performs division\"\nH26_1: \"Addition\" | Usage: \"Performs addition\"\nH27_1: \"Display Value 0\" | Usage: \"Shows the current result or input value of 0\"\nH28_1: \"History\" | Usage: \"Opens or displays the calculation history\"\nH29_1: \"There's no history yet.\" | Usage: \"Informs the user that the calculation history is empty\"\nH30_1: \"Memory\" | Usage: \"Displays or manages the stored memory values\"\nH31_1: \"Subtraction\" | Usage: \"Performs subtraction\"\nH31_2: \"Clipboard Icon\" | Usage: \"Manages or clears the memory list\"\nH31_3: \"Close Button\" | Usage: \"Closes the current section or panel, likely the memory panel\"\nHL0_1: \"\" | Usage: \"Input or display area for calculator operations and results\"\nV0_1: \"M+\" | Usage: \"Adds the current number to memory\"\nV0_2: \"%\" | Usage: \"Calculates percentage of a number\"\nV0_3: \"1/x\" | Usage: \"Calculates the reciprocal of the current number\"\nV0_4: \"7\" | Usage: \"Enters the digit 7\"\nV0_5: \"4\" | Usage: \"Enters the digit 4\"\nV0_6: \"1\" | Usage: \"Enters the digit 1\"\nV1_1: \"CE\" | Usage: \"Clears the current entry without clearing memory or previous operations\"\nV1_2: \"x²\" | Usage: \"Calculates the square of the current number\"\nV1_3: \"8\" | Usage: \"Enters the digit 8\"\nV1_4: \"5\" | Usage: \"Enters the digit 5\"\nV1_5: \"2\" | Usage: \"Enters the digit 2\"\nV2_1: \"C\" | Usage: \"Clears all input and operations from the calculator\"\nV2_2: \"²√x\" | Usage: \"Calculates the square root of the current number\"\nV2_3: \"9\" | Usage: \"Enters the digit 9\"\nV2_4: \"6\" | Usage: \"Enters the digit 6\"\nV2_5: \"3\" | Usage: \"Enters the digit 3\"\nV3_1: \"Backspace\" | Usage: \"Deletes the last digit entered or clears the current entry\"\nV3_2: \"Division\" | Usage: \"Performs division\"\nV3_3: \"Multiplication\" | Usage: \"Performs multiplication\"\nV3_4: \"Subtraction\" | Usage: \"Performs subtraction\"\nV3_5: \"Addition\" | Usage: \"Performs addition\"",
+      "analysis_success": true
+    }
+  ]
+}

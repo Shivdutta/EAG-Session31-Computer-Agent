@@ -1,0 +1,936 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T03:51:28.289909",
+  "analysis_duration_seconds": 22.620197,
+  "total_images_analyzed": 4,
+  "total_input_images": 4,
+  "analysis_mode": "direct",
+  "successful_analyses": 4,
+  "total_icons_found": 148,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_52_bboxes.png",
+      "image_name": "combined_groups_0_52_bboxes.png",
+      "icons_found": 47,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "New File Icon",
+          "usage": "Creates a new file or document in the environment",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_2",
+          "name": "RUN AND DEBUG",
+          "usage": "Initiates the process of running and debugging the current project",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_3",
+          "name": "Play with No Configurations",
+          "usage": "Starts the program execution with no specific debugging configurations selected",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_4",
+          "name": "Gear Icon",
+          "usage": "Opens settings or configuration options for the debugger or environment",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_5",
+          "name": "Ellipsis Icon",
+          "usage": "Provides access to additional debugger actions or options",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_6",
+          "name": "agent.py X",
+          "usage": "Represents an open file tab for 'agent.py', with an option to close it",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_7",
+          "name": "main.py",
+          "usage": "Represents an open file tab for 'main.py'",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Empty Bar",
+          "usage": "A visual placeholder, possibly indicating an unselected or inactive element",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "VS Code Icon",
+          "usage": "Represents the Visual Studio Code application or its general settings/commands",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_2",
+          "name": "File",
+          "usage": "Opens the file menu, containing options like New File, Open File, Save, etc.",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_3",
+          "name": "Edit",
+          "usage": "Opens the edit menu, containing options like Undo, Redo, Cut, Copy, Paste",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_4",
+          "name": "Selection",
+          "usage": "Opens the selection menu, with options related to text or object selection",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_5",
+          "name": "View",
+          "usage": "Opens the view menu, with options to customize the UI layout, panels, or visibility",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_6",
+          "name": "Go",
+          "usage": "Opens the 'Go' menu, typically for navigation within code or files",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_7",
+          "name": "Run",
+          "usage": "Opens the 'Run' menu, with options to execute, debug, or configure running programs",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_8",
+          "name": "Terminal",
+          "usage": "Opens the terminal menu, related to integrated command-line access",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_9",
+          "name": "Help",
+          "usage": "Opens the help menu, providing access to documentation, tutorials, or support",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "WATCH",
+          "usage": "Displays variables and expressions that are being monitored during debugging",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "Blue X",
+          "usage": "Clears or closes a panel, possibly related to debugging sessions or variables",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_2",
+          "name": "Errors Warnings Infos",
+          "usage": "Displays counts of errors, warnings, and informational messages in the current context",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_3",
+          "name": "Bug Icon",
+          "usage": "Toggles or activates debugger-related tools or views",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "CALL STACK",
+          "usage": "Displays the sequence of active function calls during program execution",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "BREAKPOINTS",
+          "usage": "Manages and displays the set breakpoints in the code",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "VARIABLES",
+          "usage": "Displays the current values of variables in the program's scope during debugging",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "0",
+          "usage": "Represents a numerical count, possibly for items like call frames or active processes",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_2",
+          "name": "Triangle Icon",
+          "usage": "Indicates a state or action related to debugging, possibly stepping through code",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_3",
+          "name": "0",
+          "usage": "Represents a numerical count, possibly for items like active threads or processes",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "Document Icon",
+          "usage": "Represents a document or a log file, possibly for saving or opening debug output",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "async def main_task():",
+          "usage": "A line of Python code defining an asynchronous function, typically displayed in a code editor",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "agent.py > main_task",
+          "usage": "A breadcrumb or navigation path indicating the current location in the code, pointing to the `main_task` function within `agent.py`",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "307",
+          "usage": "Represents a line number in the code editor",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "OUTPUT",
+          "usage": "A tab for displaying general program output or logs",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_2",
+          "name": "DEBUG CONSOLE",
+          "usage": "A tab for interacting with the program during debugging, allowing input and displaying debug messages",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_3",
+          "name": "TERMINAL",
+          "usage": "A tab for an integrated command-line terminal",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "PORTS",
+          "usage": "A tab for managing network ports used by the application or debugging session",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "Starting task based on user input: add 2 and 3",
+          "usage": "A log message indicating the initiation of a task based on user input",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "File Icon with Bracket",
+          "usage": "Represents a file or document, possibly for opening or saving relevant data",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "\\libs\\debugpy\\launcher '51186' '--'",
+          "usage": "A path or command line argument related to a debugger launcher",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_2",
+          "name": "'C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main'",
+          "usage": "A file path indicating the location of the main project directory or a specific file",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "Warning: Could not confirm Calculator window is active after multiple attempts.",
+          "usage": "A warning message indicating a failure to interact with a specific application window",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "Clicked center of window as a focus fallback.",
+          "usage": "A log message indicating an action taken to ensure focus on a window",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "Left Arrow",
+          "usage": "Navigates backward in history or to the previous item",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_2",
+          "name": "Right Arrow",
+          "usage": "Navigates forward in history or to the next item",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "print(\\\"\\n ▶ Starting interaction sequence...\\\")",
+          "usage": "A line of Python code printing a message indicating the start of an interaction sequence, often seen in a console",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "for target_label in action_sequence:",
+          "usage": "A line of Python code defining a loop for iterating through an action sequence",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "if all_detected_elements:",
+          "usage": "A line of Python code defining a conditional statement checking for detected elements",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "if not action_sequence: # If Gemini failed or returned None",
+          "usage": "A line of Python code defining a conditional statement handling cases where an action sequence is missing or a process (Gemini) failed",
+          "group_type": "H"
+        }
+      ],
+      "raw_response": "H0_1: \"New File Icon\" | Usage: \"Creates a new file or document in the environment\"\nH0_2: \"RUN AND DEBUG\" | Usage: \"Initiates the process of running and debugging the current project\"\nH0_3: \"Play with No Configurations\" | Usage: \"Starts the program execution with no specific debugging configurations selected\"\nH0_4: \"Gear Icon\" | Usage: \"Opens settings or configuration options for the debugger or environment\"\nH0_5: \"Ellipsis Icon\" | Usage: \"Provides access to additional debugger actions or options\"\nH0_6: \"agent.py X\" | Usage: \"Represents an open file tab for 'agent.py', with an option to close it\"\nH0_7: \"main.py\" | Usage: \"Represents an open file tab for 'main.py'\"\nH1_1: \"Empty Bar\" | Usage: \"A visual placeholder, possibly indicating an unselected or inactive element\"\nH2_1: \"VS Code Icon\" | Usage: \"Represents the Visual Studio Code application or its general settings/commands\"\nH2_2: \"File\" | Usage: \"Opens the file menu, containing options like New File, Open File, Save, etc.\"\nH2_3: \"Edit\" | Usage: \"Opens the edit menu, containing options like Undo, Redo, Cut, Copy, Paste\"\nH2_4: \"Selection\" | Usage: \"Opens the selection menu, with options related to text or object selection\"\nH2_5: \"View\" | Usage: \"Opens the view menu, with options to customize the UI layout, panels, or visibility\"\nH2_6: \"Go\" | Usage: \"Opens the 'Go' menu, typically for navigation within code or files\"\nH2_7: \"Run\" | Usage: \"Opens the 'Run' menu, with options to execute, debug, or configure running programs\"\nH2_8: \"Terminal\" | Usage: \"Opens the terminal menu, related to integrated command-line access\"\nH2_9: \"Help\" | Usage: \"Opens the help menu, providing access to documentation, tutorials, or support\"\nH3_1: \"WATCH\" | Usage: \"Displays variables and expressions that are being monitored during debugging\"\nH4_1: \"Blue X\" | Usage: \"Clears or closes a panel, possibly related to debugging sessions or variables\"\nH4_2: \"Errors Warnings Infos\" | Usage: \"Displays counts of errors, warnings, and informational messages in the current context\"\nH4_3: \"Bug Icon\" | Usage: \"Toggles or activates debugger-related tools or views\"\nH5_1: \"CALL STACK\" | Usage: \"Displays the sequence of active function calls during program execution\"\nH6_1: \"BREAKPOINTS\" | Usage: \"Manages and displays the set breakpoints in the code\"\nH7_1: \"VARIABLES\" | Usage: \"Displays the current values of variables in the program's scope during debugging\"\nH8_1: \"0\" | Usage: \"Represents a numerical count, possibly for items like call frames or active processes\"\nH8_2: \"Triangle Icon\" | Usage: \"Indicates a state or action related to debugging, possibly stepping through code\"\nH8_3: \"0\" | Usage: \"Represents a numerical count, possibly for items like active threads or processes\"\nH9_1: \"Document Icon\" | Usage: \"Represents a document or a log file, possibly for saving or opening debug output\"\nH10_1: \"async def main_task():\" | Usage: \"A line of Python code defining an asynchronous function, typically displayed in a code editor\"\nH11_1: \"agent.py > main_task\" | Usage: \"A breadcrumb or navigation path indicating the current location in the code, pointing to the `main_task` function within `agent.py`\"\nH12_1: \"307\" | Usage: \"Represents a line number in the code editor\"\nH13_1: \"OUTPUT\" | Usage: \"A tab for displaying general program output or logs\"\nH13_2: \"DEBUG CONSOLE\" | Usage: \"A tab for interacting with the program during debugging, allowing input and displaying debug messages\"\nH13_3: \"TERMINAL\" | Usage: \"A tab for an integrated command-line terminal\"\nH14_1: \"PORTS\" | Usage: \"A tab for managing network ports used by the application or debugging session\"\nH15_1: \"Starting task based on user input: add 2 and 3\" | Usage: \"A log message indicating the initiation of a task based on user input\"\nH16_1: \"File Icon with Bracket\" | Usage: \"Represents a file or document, possibly for opening or saving relevant data\"\nH17_1: \"\\libs\\debugpy\\launcher '51186' '--'\" | Usage: \"A path or command line argument related to a debugger launcher\"\nH17_2: \"'C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main'\" | Usage: \"A file path indicating the location of the main project directory or a specific file\"\nH18_1: \"Warning: Could not confirm Calculator window is active after multiple attempts.\" | Usage: \"A warning message indicating a failure to interact with a specific application window\"\nH19_1: \"Clicked center of window as a focus fallback.\" | Usage: \"A log message indicating an action taken to ensure focus on a window\"\nH20_1: \"Left Arrow\" | Usage: \"Navigates backward in history or to the previous item\"\nH20_2: \"Right Arrow\" | Usage: \"Navigates forward in history or to the next item\"\nH21_1: \"print(\\\"\\n ▶ Starting interaction sequence...\\\")\" | Usage: \"A line of Python code printing a message indicating the start of an interaction sequence, often seen in a console\"\nH22_1: \"for target_label in action_sequence:\" | Usage: \"A line of Python code defining a loop for iterating through an action sequence\"\nH23_1: \"if all_detected_elements:\" | Usage: \"A line of Python code defining a conditional statement checking for detected elements\"\nH24_1: \"if not action_sequence: # If Gemini failed or returned None\" | Usage: \"A line of Python code defining a conditional statement handling cases where an action sequence is missing or a process (Gemini) failed\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_1_56_bboxes.png",
+      "image_name": "combined_groups_1_56_bboxes.png",
+      "icons_found": 55,
+      "icons": [
+        {
+          "id": "H25_1",
+          "name": "if",
+          "usage": "A keyword indicating the start of a conditional statement in programming",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_2",
+          "name": "not",
+          "usage": "A logical operator used for negation in programming",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "print(\"Available buttons extracted from CV output: {available_buttons}\")",
+          "usage": "A line of code to print debug information about available UI buttons",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "return",
+          "usage": "A keyword to exit a function and optionally return a value",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": "print(\"Attempting to press: '{target_label}' using stored CV data.\")",
+          "usage": "A line of code to print debug information about an attempted UI interaction",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "if not available_buttons:",
+          "usage": "A conditional statement checking if a list of available buttons is empty",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "Code Block Placeholder",
+          "usage": "A placeholder for a block of code indented under a conditional statement",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_2",
+          "name": "Code Block Placeholder",
+          "usage": "A placeholder for a block of code indented under a conditional statement",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_3",
+          "name": "Code Block Placeholder",
+          "usage": "A placeholder for a block of code indented under a conditional statement",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_1",
+          "name": "Ellipsis Icon",
+          "usage": "Indicates more options or actions are available",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_2",
+          "name": "Pause Icon",
+          "usage": "Halts a currently running process or playback",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_3",
+          "name": "Question Mark Icon",
+          "usage": "Provides help or information",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_4",
+          "name": "Down Arrow Icon",
+          "usage": "Moves an item down, downloads, or expands a section",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_5",
+          "name": "Up Down Arrows Icon",
+          "usage": "Sorts or reorders items",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_6",
+          "name": "Reload Icon",
+          "usage": "Refreshes or reloads the current view or process",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_1",
+          "name": "Gemini.",
+          "usage": "Text label likely identifying a product, service, or AI model",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_1",
+          "name": "Signal Icon",
+          "usage": "Indicates connection strength, audio waves, or broadcasting",
+          "group_type": "H"
+        },
+        {
+          "id": "H34_1",
+          "name": "Checked Circle Icon",
+          "usage": "Confirms an action or indicates success",
+          "group_type": "H"
+        },
+        {
+          "id": "H35_1",
+          "name": "Quote Mark Icon",
+          "usage": "Unclear, potentially related to text formatting or string input",
+          "group_type": "H"
+        },
+        {
+          "id": "H36_1",
+          "name": "Greater Than M Icon",
+          "usage": "Expands or navigates to an 'M' related section or function",
+          "group_type": "H"
+        },
+        {
+          "id": "H37_1",
+          "name": "Ln 314, Col 5 Spaces: 4 UTF-8 LF {} Python",
+          "usage": "Status bar information displaying current cursor position, indentation, encoding, line endings, and programming language",
+          "group_type": "H"
+        },
+        {
+          "id": "H37_2",
+          "name": "Finish Setup 3.11.13 (.venv: venv)",
+          "usage": "Button to complete the setup for a Python environment, possibly version 3.11.13",
+          "group_type": "H"
+        },
+        {
+          "id": "H38_1",
+          "name": "M Icon",
+          "usage": "Represents a module, component, or specific feature related to 'M'",
+          "group_type": "H"
+        },
+        {
+          "id": "H39_1",
+          "name": "elem",
+          "usage": "Abbreviation likely for 'element' or 'elements'",
+          "group_type": "H"
+        },
+        {
+          "id": "H40_1",
+          "name": "Spaces: 4",
+          "usage": "Indicates a code formatting setting for indentation using 4 spaces",
+          "group_type": "H"
+        },
+        {
+          "id": "H41_1",
+          "name": "Aa ab * ? of 260",
+          "usage": "Likely a text search or formatting control, showing match count (e.g., '?' matches out of 260 total)",
+          "group_type": "H"
+        },
+        {
+          "id": "H42_1",
+          "name": "LF",
+          "usage": "Indicates the Line Feed character for newline representation",
+          "group_type": "H"
+        },
+        {
+          "id": "H43_1",
+          "name": "Closing Brackets Icon",
+          "usage": "Represents closing delimiters for code blocks or data structures",
+          "group_type": "H"
+        },
+        {
+          "id": "H44_1",
+          "name": "Python Debug Console",
+          "usage": "Label for an interactive console used for debugging Python code",
+          "group_type": "H"
+        },
+        {
+          "id": "H44_2",
+          "name": "Up Arrow Icon",
+          "usage": "Moves an item up or collapses a section",
+          "group_type": "H"
+        },
+        {
+          "id": "H44_3",
+          "name": "X Icon",
+          "usage": "Closes a window, cancels an action, or deletes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H45_1",
+          "name": "Gear Icon",
+          "usage": "Accesses settings or configuration options",
+          "group_type": "H"
+        },
+        {
+          "id": "H46_1",
+          "name": "Up Arrow Icon",
+          "usage": "Moves an item up or navigates to the previous item",
+          "group_type": "H"
+        },
+        {
+          "id": "H46_2",
+          "name": "Down Arrow with Lines Icon",
+          "usage": "Scrolls down or expands to show more details",
+          "group_type": "H"
+        },
+        {
+          "id": "H46_3",
+          "name": "X Icon",
+          "usage": "Closes a window, cancels an action, or deletes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_1",
+          "name": "Grid Layout Icon",
+          "usage": "Changes the display to a grid or tiled layout",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_2",
+          "name": "Minus Icon",
+          "usage": "Collapses, minimizes, or removes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_3",
+          "name": "Square with Plus Icon",
+          "usage": "Adds a new item or creates a new element",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_4",
+          "name": "X Icon",
+          "usage": "Closes a window, cancels an action, or deletes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_1",
+          "name": "Split View Icon",
+          "usage": "Arranges elements in a split or side-by-side view",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_2",
+          "name": "Document Icon",
+          "usage": "Represents a file or document",
+          "group_type": "H"
+        },
+        {
+          "id": "H49_1",
+          "name": "Down Arrow Icon",
+          "usage": "Moves an item down or collapses a section",
+          "group_type": "H"
+        },
+        {
+          "id": "H49_2",
+          "name": "Hamburger Menu Icon",
+          "usage": "Opens a navigation menu or list of options",
+          "group_type": "H"
+        },
+        {
+          "id": "H50_1",
+          "name": "Side by Side Windows Icon",
+          "usage": "Displays two windows or panels next to each other",
+          "group_type": "H"
+        },
+        {
+          "id": "H51_1",
+          "name": "Document Icon",
+          "usage": "Represents a single document or page",
+          "group_type": "H"
+        },
+        {
+          "id": "H51_2",
+          "name": "Trash Can Icon",
+          "usage": "Deletes selected items or files",
+          "group_type": "H"
+        },
+        {
+          "id": "H51_3",
+          "name": "Ellipsis Icon",
+          "usage": "Indicates more options or actions are available",
+          "group_type": "H"
+        },
+        {
+          "id": "H52_1",
+          "name": "Progress Bar / Timeline",
+          "usage": "Displays the current progress of a task or position in a media timeline",
+          "group_type": "H"
+        },
+        {
+          "id": "H53_1",
+          "name": "Play and Stop Icon",
+          "usage": "Controls media playback, including play and stop/pause functions",
+          "group_type": "H"
+        },
+        {
+          "id": "H53_2",
+          "name": "Ellipsis Icon",
+          "usage": "Indicates more options or actions are available for media controls",
+          "group_type": "H"
+        },
+        {
+          "id": "H54_1",
+          "name": "Progress Bar / Timeline",
+          "usage": "Displays the current progress of a task or position in a media timeline",
+          "group_type": "H"
+        },
+        {
+          "id": "H55_1",
+          "name": "Document Icon",
+          "usage": "Represents a single document or file",
+          "group_type": "H"
+        },
+        {
+          "id": "HL0_1",
+          "name": "print(\"Failed to generate a valid action sequence from Gemini. Cannot proceed.\")",
+          "usage": "Error message indicating a failure in AI action sequence generation",
+          "group_type": "H"
+        },
+        {
+          "id": "HL1_1",
+          "name": "Computer-AI-Agent-main",
+          "usage": "Text representing a project or main file name for an AI agent",
+          "group_type": "H"
+        },
+        {
+          "id": "HL2_1",
+          "name": "action_sequence = await get_action_sequence_from_gemini(user_task_description, available_buttons)",
+          "usage": "A line of code defining how an AI agent retrieves an action sequence from Gemini",
+          "group_type": "H"
+        }
+      ],
+      "raw_response": "H25_1: \"if\" | Usage: \"A keyword indicating the start of a conditional statement in programming\"\nH25_2: \"not\" | Usage: \"A logical operator used for negation in programming\"\nH26_1: \"print(\"Available buttons extracted from CV output: {available_buttons}\")\" | Usage: \"A line of code to print debug information about available UI buttons\"\nH27_1: \"return\" | Usage: \"A keyword to exit a function and optionally return a value\"\nH28_1: \"print(\"Attempting to press: '{target_label}' using stored CV data.\")\" | Usage: \"A line of code to print debug information about an attempted UI interaction\"\nH29_1: \"if not available_buttons:\" | Usage: \"A conditional statement checking if a list of available buttons is empty\"\nH30_1: \"Code Block Placeholder\" | Usage: \"A placeholder for a block of code indented under a conditional statement\"\nH30_2: \"Code Block Placeholder\" | Usage: \"A placeholder for a block of code indented under a conditional statement\"\nH30_3: \"Code Block Placeholder\" | Usage: \"A placeholder for a block of code indented under a conditional statement\"\nH31_1: \"Ellipsis Icon\" | Usage: \"Indicates more options or actions are available\"\nH31_2: \"Pause Icon\" | Usage: \"Halts a currently running process or playback\"\nH31_3: \"Question Mark Icon\" | Usage: \"Provides help or information\"\nH31_4: \"Down Arrow Icon\" | Usage: \"Moves an item down, downloads, or expands a section\"\nH31_5: \"Up Down Arrows Icon\" | Usage: \"Sorts or reorders items\"\nH31_6: \"Reload Icon\" | Usage: \"Refreshes or reloads the current view or process\"\nH32_1: \"Gemini.\" | Usage: \"Text label likely identifying a product, service, or AI model\"\nH33_1: \"Signal Icon\" | Usage: \"Indicates connection strength, audio waves, or broadcasting\"\nH34_1: \"Checked Circle Icon\" | Usage: \"Confirms an action or indicates success\"\nH35_1: \"Quote Mark Icon\" | Usage: \"Unclear, potentially related to text formatting or string input\"\nH36_1: \"Greater Than M Icon\" | Usage: \"Expands or navigates to an 'M' related section or function\"\nH37_1: \"Ln 314, Col 5 Spaces: 4 UTF-8 LF {} Python\" | Usage: \"Status bar information displaying current cursor position, indentation, encoding, line endings, and programming language\"\nH37_2: \"Finish Setup 3.11.13 (.venv: venv)\" | Usage: \"Button to complete the setup for a Python environment, possibly version 3.11.13\"\nH38_1: \"M Icon\" | Usage: \"Represents a module, component, or specific feature related to 'M'\"\nH39_1: \"elem\" | Usage: \"Abbreviation likely for 'element' or 'elements'\"\nH40_1: \"Spaces: 4\" | Usage: \"Indicates a code formatting setting for indentation using 4 spaces\"\nH41_1: \"Aa ab * ? of 260\" | Usage: \"Likely a text search or formatting control, showing match count (e.g., '?' matches out of 260 total)\"\nH42_1: \"LF\" | Usage: \"Indicates the Line Feed character for newline representation\"\nH43_1: \"Closing Brackets Icon\" | Usage: \"Represents closing delimiters for code blocks or data structures\"\nH44_1: \"Python Debug Console\" | Usage: \"Label for an interactive console used for debugging Python code\"\nH44_2: \"Up Arrow Icon\" | Usage: \"Moves an item up or collapses a section\"\nH44_3: \"X Icon\" | Usage: \"Closes a window, cancels an action, or deletes an item\"\nH45_1: \"Gear Icon\" | Usage: \"Accesses settings or configuration options\"\nH46_1: \"Up Arrow Icon\" | Usage: \"Moves an item up or navigates to the previous item\"\nH46_2: \"Down Arrow with Lines Icon\" | Usage: \"Scrolls down or expands to show more details\"\nH46_3: \"X Icon\" | Usage: \"Closes a window, cancels an action, or deletes an item\"\nH47_1: \"Grid Layout Icon\" | Usage: \"Changes the display to a grid or tiled layout\"\nH47_2: \"Minus Icon\" | Usage: \"Collapses, minimizes, or removes an item\"\nH47_3: \"Square with Plus Icon\" | Usage: \"Adds a new item or creates a new element\"\nH47_4: \"X Icon\" | Usage: \"Closes a window, cancels an action, or deletes an item\"\nH48_1: \"Split View Icon\" | Usage: \"Arranges elements in a split or side-by-side view\"\nH48_2: \"Document Icon\" | Usage: \"Represents a file or document\"\nH49_1: \"Down Arrow Icon\" | Usage: \"Moves an item down or collapses a section\"\nH49_2: \"Hamburger Menu Icon\" | Usage: \"Opens a navigation menu or list of options\"\nH50_1: \"Side by Side Windows Icon\" | Usage: \"Displays two windows or panels next to each other\"\nH51_1: \"Document Icon\" | Usage: \"Represents a single document or page\"\nH51_2: \"Trash Can Icon\" | Usage: \"Deletes selected items or files\"\nH51_3: \"Ellipsis Icon\" | Usage: \"Indicates more options or actions are available\"\nH52_1: \"Progress Bar / Timeline\" | Usage: \"Displays the current progress of a task or position in a media timeline\"\nH53_1: \"Play and Stop Icon\" | Usage: \"Controls media playback, including play and stop/pause functions\"\nH53_2: \"Ellipsis Icon\" | Usage: \"Indicates more options or actions are available for media controls\"\nH54_1: \"Progress Bar / Timeline\" | Usage: \"Displays the current progress of a task or position in a media timeline\"\nH55_1: \"Document Icon\" | Usage: \"Represents a single document or file\"\nHL0_1: \"print(\"Failed to generate a valid action sequence from Gemini. Cannot proceed.\")\" | Usage: \"Error message indicating a failure in AI action sequence generation\"\nHL1_1: \"Computer-AI-Agent-main\" | Usage: \"Text representing a project or main file name for an AI agent\"\nHL2_1: \"action_sequence = await get_action_sequence_from_gemini(user_task_description, available_buttons)\" | Usage: \"A line of code defining how an AI agent retrieves an action sequence from Gemini\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_2_42_bboxes.png",
+      "image_name": "combined_groups_2_42_bboxes.png",
+      "icons_found": 31,
+      "icons": [
+        {
+          "id": "HL10_1",
+          "name": "print(\"Error: No button labels extracted from CV output to provide to Gemini.\")",
+          "usage": "Program output indicating an error in extracting UI button labels",
+          "group_type": "H"
+        },
+        {
+          "id": "HL11_1",
+          "name": "available_buttons = sorted(list(set(filter(None, available_buttons)))) # Unique, sorted, non-empty",
+          "usage": "Python code snippet defining how available buttons are processed",
+          "group_type": "H"
+        },
+        {
+          "id": "HL12_1",
+          "name": "available_buttons = [elem.get('g_icon_name','').strip() for elem in all_detected_elements if elem.get('g_icon_name')]",
+          "usage": "Python code snippet for extracting icon names from detected elements",
+          "group_type": "H"
+        },
+        {
+          "id": "HL3_1",
+          "name": "Activation attempt 3 failed: Error code from Windows: 0 - The operation completed successfully.",
+          "usage": "Status message indicating the outcome of an activation attempt",
+          "group_type": "H"
+        },
+        {
+          "id": "HL4_1",
+          "name": "Activation attempt 2 failed: Error code from Windows: 0 - The operation completed successfully.",
+          "usage": "Status message indicating the outcome of an activation attempt",
+          "group_type": "H"
+        },
+        {
+          "id": "HL5_1",
+          "name": "Activation attempt 1 failed: Error code from Windows: 0 - The operation completed successfully.",
+          "usage": "Status message indicating the outcome of an activation attempt",
+          "group_type": "H"
+        },
+        {
+          "id": "HL6_1",
+          "name": "Please enter the calculation task (e.g., 'calculate 50 times 3 plus 10'): add 2 and 3",
+          "usage": "Prompt for user input for a calculation task with an example",
+          "group_type": "H"
+        },
+        {
+          "id": "HL7_1",
+          "name": "x5Computer-AI-Agent-main\\x5Ccomputer-AI-agent\\x5Cagent.py ,bb4a5a50-b827-4565-9c4f-71424eb95f08",
+          "usage": "File path and identifier related to an AI agent script",
+          "group_type": "H"
+        },
+        {
+          "id": "HL8_1",
+          "name": "& 'c:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main\\.venv\\Scripts\\python.exe'",
+          "usage": "Command or path to a Python executable within a virtual environment",
+          "group_type": "H"
+        },
+        {
+          "id": "HL9_1",
+          "name": "target_element = find_element_in_cv_output(all_detected_elements, target_label)",
+          "usage": "Python code snippet for finding a target element from computer vision output",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "Magnifying Glass Icon",
+          "usage": "Represents a search or find function",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_2",
+          "name": "Linked Nodes Icon",
+          "usage": "Symbolizes connections, workflow, or network structure",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_3",
+          "name": "Cursor with Gear Icon",
+          "usage": "Indicates interactive settings or automation of user input",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_4",
+          "name": "Window Layout Icon",
+          "usage": "Represents screen organization or window arrangement",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_5",
+          "name": "Grid Icon",
+          "usage": "Symbolizes a grid view, matrix, or array of items",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_6",
+          "name": "Pyramid Icon",
+          "usage": "Represents a hierarchy, stack, or layered structure",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "Plus Icon",
+          "usage": "Represents an action to add or create something new",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_10",
+          "name": "313",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_11",
+          "name": "314",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_12",
+          "name": "315",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_2",
+          "name": "235",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_3",
+          "name": "305",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_4",
+          "name": "306",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_5",
+          "name": "308",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_6",
+          "name": "309",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_7",
+          "name": "310",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_8",
+          "name": "311",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_9",
+          "name": "312",
+          "usage": "Numerical identifier, possibly a button or detected element",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "not Button",
+          "usage": "A button with the text 'not', likely used for negation or selection exclusion",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "return Button",
+          "usage": "A button with the text 'return', likely used to go back or submit",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "PS C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main>",
+          "usage": "A command prompt path, indicating the current directory or execution context",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "HL10_1: \"print(\"Error: No button labels extracted from CV output to provide to Gemini.\")\" | Usage: \"Program output indicating an error in extracting UI button labels\"\nHL11_1: \"available_buttons = sorted(list(set(filter(None, available_buttons)))) # Unique, sorted, non-empty\" | Usage: \"Python code snippet defining how available buttons are processed\"\nHL12_1: \"available_buttons = [elem.get('g_icon_name','').strip() for elem in all_detected_elements if elem.get('g_icon_name')]\" | Usage: \"Python code snippet for extracting icon names from detected elements\"\nHL3_1: \"Activation attempt 3 failed: Error code from Windows: 0 - The operation completed successfully.\" | Usage: \"Status message indicating the outcome of an activation attempt\"\nHL4_1: \"Activation attempt 2 failed: Error code from Windows: 0 - The operation completed successfully.\" | Usage: \"Status message indicating the outcome of an activation attempt\"\nHL5_1: \"Activation attempt 1 failed: Error code from Windows: 0 - The operation completed successfully.\" | Usage: \"Status message indicating the outcome of an activation attempt\"\nHL6_1: \"Please enter the calculation task (e.g., 'calculate 50 times 3 plus 10'): add 2 and 3\" | Usage: \"Prompt for user input for a calculation task with an example\"\nHL7_1: \"x5Computer-AI-Agent-main\\x5Ccomputer-AI-agent\\x5Cagent.py ,bb4a5a50-b827-4565-9c4f-71424eb95f08\" | Usage: \"File path and identifier related to an AI agent script\"\nHL8_1: \"& 'c:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main\\.venv\\Scripts\\python.exe'\" | Usage: \"Command or path to a Python executable within a virtual environment\"\nHL9_1: \"target_element = find_element_in_cv_output(all_detected_elements, target_label)\" | Usage: \"Python code snippet for finding a target element from computer vision output\"\nV0_1: \"Magnifying Glass Icon\" | Usage: \"Represents a search or find function\"\nV0_2: \"Linked Nodes Icon\" | Usage: \"Symbolizes connections, workflow, or network structure\"\nV0_3: \"Cursor with Gear Icon\" | Usage: \"Indicates interactive settings or automation of user input\"\nV0_4: \"Window Layout Icon\" | Usage: \"Represents screen organization or window arrangement\"\nV0_5: \"Grid Icon\" | Usage: \"Symbolizes a grid view, matrix, or array of items\"\nV0_6: \"Pyramid Icon\" | Usage: \"Represents a hierarchy, stack, or layered structure\"\nV1_1: \"Plus Icon\" | Usage: \"Represents an action to add or create something new\"\nV1_10: \"313\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_11: \"314\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_12: \"315\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_2: \"235\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_3: \"305\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_4: \"306\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_5: \"308\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_6: \"309\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_7: \"310\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_8: \"311\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV1_9: \"312\" | Usage: \"Numerical identifier, possibly a button or detected element\"\nV2_1: \"not Button\" | Usage: \"A button with the text 'not', likely used for negation or selection exclusion\"\nV2_2: \"return Button\" | Usage: \"A button with the text 'return', likely used to go back or submit\"\nV3_1: \"PS C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main>\" | Usage: \"A command prompt path, indicating the current directory or execution context\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_3_17_bboxes.png",
+      "image_name": "combined_groups_3_17_bboxes.png",
+      "icons_found": 15,
+      "icons": [
+        {
+          "id": "V4_1",
+          "name": "c:\\Users\\shiv-nlp\\.vscode\\extensions\\ms-python.debugpy-2025.8.0-win32-x64\\bundled",
+          "usage": "Displays the file path of a bundled extension for debugging",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_1",
+          "name": "Attempting to launch Calculator...",
+          "usage": "Indicates a process is attempting to launch the Calculator application",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_2",
+          "name": "Found Calculator window: 'Calculator'",
+          "usage": "Indicates successful detection of the Calculator application window",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_3",
+          "name": "Retrying activation...",
+          "usage": "Indicates a process is retrying to activate something",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_1",
+          "name": "Raised Exceptions",
+          "usage": "Checkbox to toggle whether to stop on exceptions that are raised",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_2",
+          "name": "Uncaught Exceptions",
+          "usage": "Checkbox to toggle whether to stop on exceptions that are uncaught",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_3",
+          "name": "User Uncaught Exceptions",
+          "usage": "Checkbox to toggle whether to stop on uncaught exceptions originating from user code",
+          "group_type": "V"
+        },
+        {
+          "id": "V7_1",
+          "name": "Person Icon",
+          "usage": "Represents user-related settings or a profile",
+          "group_type": "V"
+        },
+        {
+          "id": "V7_2",
+          "name": "Settings Icon with Badge",
+          "usage": "Represents application settings or configuration, with a pending notification or count",
+          "group_type": "V"
+        },
+        {
+          "id": "V8_1",
+          "name": "665",
+          "usage": "A button or display showing the numerical value 665",
+          "group_type": "V"
+        },
+        {
+          "id": "V8_2",
+          "name": "686",
+          "usage": "A button or display showing the numerical value 686",
+          "group_type": "V"
+        },
+        {
+          "id": "V9_1",
+          "name": "Red Dot Breakpoint",
+          "usage": "Indicates a breakpoint set in code, causing execution to pause at this point during debugging",
+          "group_type": "V"
+        },
+        {
+          "id": "V9_2",
+          "name": "Red Dot Breakpoint",
+          "usage": "Indicates a breakpoint set in code, causing execution to pause at this point during debugging",
+          "group_type": "V"
+        },
+        {
+          "id": "V10_1",
+          "name": "main.py",
+          "usage": "Checkbox to select or enable a file named 'main.py' for a specific action",
+          "group_type": "V"
+        },
+        {
+          "id": "V10_2",
+          "name": "main.py",
+          "usage": "Checkbox to select or enable a file named 'main.py' for a specific action",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "V4_1: \"c:\\Users\\shiv-nlp\\.vscode\\extensions\\ms-python.debugpy-2025.8.0-win32-x64\\bundled\" | Usage: \"Displays the file path of a bundled extension for debugging\"\nV5_1: \"Attempting to launch Calculator...\" | Usage: \"Indicates a process is attempting to launch the Calculator application\"\nV5_2: \"Found Calculator window: 'Calculator'\" | Usage: \"Indicates successful detection of the Calculator application window\"\nV5_3: \"Retrying activation...\" | Usage: \"Indicates a process is retrying to activate something\"\nV6_1: \"Raised Exceptions\" | Usage: \"Checkbox to toggle whether to stop on exceptions that are raised\"\nV6_2: \"Uncaught Exceptions\" | Usage: \"Checkbox to toggle whether to stop on exceptions that are uncaught\"\nV6_3: \"User Uncaught Exceptions\" | Usage: \"Checkbox to toggle whether to stop on uncaught exceptions originating from user code\"\nV7_1: \"Person Icon\" | Usage: \"Represents user-related settings or a profile\"\nV7_2: \"Settings Icon with Badge\" | Usage: \"Represents application settings or configuration, with a pending notification or count\"\nV8_1: \"665\" | Usage: \"A button or display showing the numerical value 665\"\nV8_2: \"686\" | Usage: \"A button or display showing the numerical value 686\"\nV9_1: \"Red Dot Breakpoint\" | Usage: \"Indicates a breakpoint set in code, causing execution to pause at this point during debugging\"\nV9_2: \"Red Dot Breakpoint\" | Usage: \"Indicates a breakpoint set in code, causing execution to pause at this point during debugging\"\nV10_1: \"main.py\" | Usage: \"Checkbox to select or enable a file named 'main.py' for a specific action\"\nV10_2: \"main.py\" | Usage: \"Checkbox to select or enable a file named 'main.py' for a specific action\"",
+      "analysis_success": true
+    }
+  ]
+}

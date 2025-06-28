@@ -1,0 +1,363 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T03:25:29.834900",
+  "analysis_duration_seconds": 37.965011,
+  "total_images_analyzed": 1,
+  "total_input_images": 1,
+  "analysis_mode": "direct",
+  "successful_analyses": 1,
+  "total_icons_found": 57,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_61_bboxes.png",
+      "image_name": "combined_groups_0_61_bboxes.png",
+      "icons_found": 57,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "Hamburger Menu",
+          "usage": "Opens a navigation menu for the application",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Calculator Icon",
+          "usage": "Represents the calculator application itself",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_2",
+          "name": "Calculator",
+          "usage": "Application title or window name",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "Standard Mode",
+          "usage": "Indicates the current calculator mode is 'Standard' or allows switching to it",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "MC",
+          "usage": "Clears the calculator's memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "MR",
+          "usage": "Recalls the value stored in the calculator's memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "+/-",
+          "usage": "Changes the sign of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "%",
+          "usage": "Calculates percentage",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "7",
+          "usage": "Number seven digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "4",
+          "usage": "Number four digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "1",
+          "usage": "Number one digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "M-",
+          "usage": "Subtracts the current number from memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "MS",
+          "usage": "Stores the current number in memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "CE",
+          "usage": "Clears the current entry without clearing memory or previous operations",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "x²",
+          "usage": "Calculates the square of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "8",
+          "usage": "Number eight digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "2",
+          "usage": "Number two digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "0",
+          "usage": "Number zero digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "5",
+          "usage": "Number five digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "Square Root",
+          "usage": "Calculates the square root of the current number",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "9",
+          "usage": "Number nine digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "3",
+          "usage": "Number three digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "C",
+          "usage": "Clears all calculator entries and operations",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "6",
+          "usage": "Number six digit button",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "Backspace Arrow",
+          "usage": "Deletes the last digit from the current input",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_1",
+          "name": "X (Clear)",
+          "usage": "Clears the current display or input",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "Equals Sign",
+          "usage": "Performs calculation or shows result, possibly for a selected history item",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "Plus Sign",
+          "usage": "Adds value, possibly to history or memory",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": "Clear History Button",
+          "usage": "Clears the calculation history",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "History",
+          "usage": "Button to view past calculations",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_2",
+          "name": "Memory",
+          "usage": "Button to view or manage stored memory values",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "There's no history yet.",
+          "usage": "Informational text indicating that the calculation history is empty",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_1",
+          "name": "Minimize Button",
+          "usage": "Minimizes the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_2",
+          "name": "Maximize/Restore Button",
+          "usage": "Maximizes or restores the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_3",
+          "name": "Close Button",
+          "usage": "Closes the application window",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "M+",
+          "usage": "Adds the current number to the calculator's memory",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_2",
+          "name": "%",
+          "usage": "Calculates percentage",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_3",
+          "name": "1/x",
+          "usage": "Calculates the reciprocal of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_4",
+          "name": "7",
+          "usage": "Number seven digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_5",
+          "name": "4",
+          "usage": "Number four digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_6",
+          "name": "1",
+          "usage": "Number one digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "CE",
+          "usage": "Clears the current entry without clearing memory or previous operations",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_2",
+          "name": "x²",
+          "usage": "Calculates the square of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_3",
+          "name": "8",
+          "usage": "Number eight digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_4",
+          "name": "5",
+          "usage": "Number five digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_5",
+          "name": "2",
+          "usage": "Number two digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "All Clear Symbol",
+          "usage": "Clears all inputs, operations, and resets the calculator state",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "Division Sign",
+          "usage": "Divides the current number by the next operand",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_3",
+          "name": "Multiplication Sign",
+          "usage": "Multiplies the current number by the next operand",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_4",
+          "name": "Minus Sign",
+          "usage": "Subtracts the next operand from the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_5",
+          "name": "Plus Sign",
+          "usage": "Adds the next operand to the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "C",
+          "usage": "Clears all calculator entries and operations",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_2",
+          "name": "Square Root",
+          "usage": "Calculates the square root of the current number",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_3",
+          "name": "9",
+          "usage": "Number nine digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_4",
+          "name": "6",
+          "usage": "Number six digit button",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_5",
+          "name": "3",
+          "usage": "Number three digit button",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "H0_1: \"Hamburger Menu\" | Usage: \"Opens a navigation menu for the application\"\nH1_1: \"Calculator Icon\" | Usage: \"Represents the calculator application itself\"\nH1_2: \"Calculator\" | Usage: \"Application title or window name\"\nH2_1: \"Standard Mode\" | Usage: \"Indicates the current calculator mode is 'Standard' or allows switching to it\"\nH3_1: \"MC\" | Usage: \"Clears the calculator's memory\"\nH4_1: \"MR\" | Usage: \"Recalls the value stored in the calculator's memory\"\nH5_1: \"+/-\" | Usage: \"Changes the sign of the current number\"\nH6_1: \"%\" | Usage: \"Calculates percentage\"\nH7_1: \"1/x\" | Usage: \"Calculates the reciprocal of the current number\"\nH8_1: \"7\" | Usage: \"Number seven digit button\"\nH9_1: \"4\" | Usage: \"Number four digit button\"\nH10_1: \"1\" | Usage: \"Number one digit button\"\nH11_1: \"M-\" | Usage: \"Subtracts the current number from memory\"\nH12_1: \"MS\" | Usage: \"Stores the current number in memory\"\nH13_1: \"CE\" | Usage: \"Clears the current entry without clearing memory or previous operations\"\nH14_1: \"x²\" | Usage: \"Calculates the square of the current number\"\nH15_1: \"8\" | Usage: \"Number eight digit button\"\nH16_1: \"2\" | Usage: \"Number two digit button\"\nH17_1: \"0\" | Usage: \"Number zero digit button\"\nH18_1: \"5\" | Usage: \"Number five digit button\"\nH19_1: \"Square Root\" | Usage: \"Calculates the square root of the current number\"\nH20_1: \"9\" | Usage: \"Number nine digit button\"\nH21_1: \"3\" | Usage: \"Number three digit button\"\nH22_1: \"C\" | Usage: \"Clears all calculator entries and operations\"\nH23_1: \"6\" | Usage: \"Number six digit button\"\nH24_1: \"Backspace Arrow\" | Usage: \"Deletes the last digit from the current input\"\nH25_1: \"X (Clear)\" | Usage: \"Clears the current display or input\"\nH26_1: \"Equals Sign\" | Usage: \"Performs calculation or shows result, possibly for a selected history item\"\nH27_1: \"Plus Sign\" | Usage: \"Adds value, possibly to history or memory\"\nH28_1: \"Clear History Button\" | Usage: \"Clears the calculation history\"\nH29_1: \"History\" | Usage: \"Button to view past calculations\"\nH29_2: \"Memory\" | Usage: \"Button to view or manage stored memory values\"\nH30_1: \"There's no history yet.\" | Usage: \"Informational text indicating that the calculation history is empty\"\nH31_1: \"Minimize Button\" | Usage: \"Minimizes the application window\"\nH31_2: \"Maximize/Restore Button\" | Usage: \"Maximizes or restores the application window\"\nH31_3: \"Close Button\" | Usage: \"Closes the application window\"\nV0_1: \"M+\" | Usage: \"Adds the current number to the calculator's memory\"\nV0_2: \"%\" | Usage: \"Calculates percentage\"\nV0_3: \"1/x\" | Usage: \"Calculates the reciprocal of the current number\"\nV0_4: \"7\" | Usage: \"Number seven digit button\"\nV0_5: \"4\" | Usage: \"Number four digit button\"\nV0_6: \"1\" | Usage: \"Number one digit button\"\nV1_1: \"CE\" | Usage: \"Clears the current entry without clearing memory or previous operations\"\nV1_2: \"x²\" | Usage: \"Calculates the square of the current number\"\nV1_3: \"8\" | Usage: \"Number eight digit button\"\nV1_4: \"5\" | Usage: \"Number five digit button\"\nV1_5: \"2\" | Usage: \"Number two digit button\"\nV2_1: \"All Clear Symbol\" | Usage: \"Clears all inputs, operations, and resets the calculator state\"\nV2_2: \"Division Sign\" | Usage: \"Divides the current number by the next operand\"\nV2_3: \"Multiplication Sign\" | Usage: \"Multiplies the current number by the next operand\"\nV2_4: \"Minus Sign\" | Usage: \"Subtracts the next operand from the current number\"\nV2_5: \"Plus Sign\" | Usage: \"Adds the next operand to the current number\"\nV3_1: \"C\" | Usage: \"Clears all calculator entries and operations\"\nV3_2: \"Square Root\" | Usage: \"Calculates the square root of the current number\"\nV3_3: \"9\" | Usage: \"Number nine digit button\"\nV3_4: \"6\" | Usage: \"Number six digit button\"\nV3_5: \"3\" | Usage: \"Number three digit button\"",
+      "analysis_success": true
+    }
+  ]
+}

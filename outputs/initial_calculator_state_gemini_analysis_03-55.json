@@ -1,0 +1,990 @@
+{
+  "filename_base": "initial_calculator_state",
+  "analysis_timestamp": "2025-06-29T03:55:24.338568",
+  "analysis_duration_seconds": 35.048749,
+  "total_images_analyzed": 4,
+  "total_input_images": 4,
+  "analysis_mode": "direct",
+  "successful_analyses": 4,
+  "total_icons_found": 157,
+  "images": [
+    {
+      "image_path": "direct:combined_groups_0_54_bboxes.png",
+      "image_name": "combined_groups_0_54_bboxes.png",
+      "icons_found": 53,
+      "icons": [
+        {
+          "id": "H0_1",
+          "name": "File Icon",
+          "usage": "Represents a project or file-related action like New File or Open Project",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_2",
+          "name": "RUN AND DEBUG",
+          "usage": "Initiates the execution of the code with debugging functionalities enabled",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_3",
+          "name": "No Configurations",
+          "usage": "Displays and allows selection of different run and debug configurations",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_4",
+          "name": "Gear Icon",
+          "usage": "Opens settings or configuration options for the application",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_5",
+          "name": "More Options Icon",
+          "usage": "Reveals additional options or a context menu for related actions",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_6",
+          "name": "agent.py",
+          "usage": "Represents an open file named agent.py, with an option to close it",
+          "group_type": "H"
+        },
+        {
+          "id": "H0_7",
+          "name": "main.py",
+          "usage": "Represents an open file named main.py in the editor",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_1",
+          "name": "Bug Icon",
+          "usage": "Accesses debugger-related functionalities and settings",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_2",
+          "name": "File",
+          "usage": "Menu for operations related to files, such as opening, saving, or creating",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_3",
+          "name": "Edit",
+          "usage": "Menu for editing operations like cut, copy, paste, undo, and redo",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_4",
+          "name": "Selection",
+          "usage": "Menu for options related to selecting elements or text within the interface",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_5",
+          "name": "View",
+          "usage": "Menu for controlling the visibility of UI elements or changing the layout",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_6",
+          "name": "Go",
+          "usage": "Menu for navigation, such as jumping to a specific line or definition in code",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_7",
+          "name": "Run",
+          "usage": "Menu for executing code or managing active debugging sessions",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_8",
+          "name": "Terminal",
+          "usage": "Menu for interacting with the integrated command-line terminal",
+          "group_type": "H"
+        },
+        {
+          "id": "H1_9",
+          "name": "Help",
+          "usage": "Menu for accessing documentation, tutorials, or support resources",
+          "group_type": "H"
+        },
+        {
+          "id": "H2_1",
+          "name": "WATCH",
+          "usage": "Section or menu for monitoring the values of variables during debugging",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_1",
+          "name": "Step Over Icon",
+          "usage": "Debugger control to execute the current line and step to the next, skipping function calls",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_2",
+          "name": "Debugger Control Group",
+          "usage": "Contains common debugger actions like stop, step into, and step out",
+          "group_type": "H"
+        },
+        {
+          "id": "H3_3",
+          "name": "Continue Icon",
+          "usage": "Debugger control to resume program execution until the next breakpoint",
+          "group_type": "H"
+        },
+        {
+          "id": "H4_1",
+          "name": "Blank Button",
+          "usage": "An empty or inactive button placeholder in the UI",
+          "group_type": "H"
+        },
+        {
+          "id": "H5_1",
+          "name": "CALL STACK",
+          "usage": "Displays the sequence of function calls that led to the current point of execution",
+          "group_type": "H"
+        },
+        {
+          "id": "H6_1",
+          "name": "BREAKPOINTS",
+          "usage": "Manages points in the code where the program execution will pause during debugging",
+          "group_type": "H"
+        },
+        {
+          "id": "H7_1",
+          "name": "VARIABLES",
+          "usage": "Displays and allows inspection of variables' values during program execution",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_1",
+          "name": "Value 0",
+          "usage": "Displays a numerical value, likely indicating a count or state of zero",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_2",
+          "name": "Delta Icon",
+          "usage": "Represents change, difference, or an operation related to numerical values",
+          "group_type": "H"
+        },
+        {
+          "id": "H8_3",
+          "name": "Value 0",
+          "usage": "Displays a numerical value, likely indicating a count or state of zero",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_1",
+          "name": "Target Icon",
+          "usage": "Represents a focus point, a specific aim, or a selection target",
+          "group_type": "H"
+        },
+        {
+          "id": "H9_2",
+          "name": "PS Icon",
+          "usage": "Identifier for a process or system, possibly related to process status or PowerShell",
+          "group_type": "H"
+        },
+        {
+          "id": "H10_1",
+          "name": "Empty Document Icon",
+          "usage": "Represents a new or blank document or file",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_1",
+          "name": "x5clauncher",
+          "usage": "Text identifier for a specific launcher application or component",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_2",
+          "name": "'51211'",
+          "usage": "A numeric identifier, potentially representing a port number or process ID",
+          "group_type": "H"
+        },
+        {
+          "id": "H11_3",
+          "name": "Placeholder Dashes",
+          "usage": "Indicates an unassigned, null, or empty value",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_1",
+          "name": "Input Prompt Text",
+          "usage": "Prompts the user to enter a calculation task or query",
+          "group_type": "H"
+        },
+        {
+          "id": "H12_2",
+          "name": "Example Input Text",
+          "usage": "Provides an example of valid input for the calculation task",
+          "group_type": "H"
+        },
+        {
+          "id": "H13_1",
+          "name": "Task Start Message",
+          "usage": "Informs the user that a task has started based on their input",
+          "group_type": "H"
+        },
+        {
+          "id": "H14_1",
+          "name": "Launch Attempt Message",
+          "usage": "Indicates that an attempt to launch an application is in progress",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_1",
+          "name": "OUTPUT Tab",
+          "usage": "Displays the standard output messages from the running program",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_2",
+          "name": "DEBUG CONSOLE Tab",
+          "usage": "Provides an interactive console for debugging commands and their output",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_3",
+          "name": "TERMINAL Tab",
+          "usage": "Accesses the integrated command-line interface for system interactions",
+          "group_type": "H"
+        },
+        {
+          "id": "H15_4",
+          "name": "PORTS Tab",
+          "usage": "Manages or displays information about network ports being used",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_1",
+          "name": "Launcher Path",
+          "usage": "Displays the file path of a debugpy launcher module",
+          "group_type": "H"
+        },
+        {
+          "id": "H16_2",
+          "name": "'51211'",
+          "usage": "A numeric identifier or port number, likely associated with the launcher",
+          "group_type": "H"
+        },
+        {
+          "id": "H17_1",
+          "name": "Function Definition",
+          "usage": "Displays a line of code defining an asynchronous function",
+          "group_type": "H"
+        },
+        {
+          "id": "H18_1",
+          "name": "Ampersand Symbol",
+          "usage": "Represents a logical AND operation or a process running in the background",
+          "group_type": "H"
+        },
+        {
+          "id": "H19_1",
+          "name": "Warning Message",
+          "usage": "Alerts the user that a calculator window's activity could not be confirmed",
+          "group_type": "H"
+        },
+        {
+          "id": "H20_1",
+          "name": "Focus Fallback Message",
+          "usage": "Explains an action taken to ensure window focus in a fallback scenario",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_1",
+          "name": "Left Arrow",
+          "usage": "Navigates backward in history, selection, or sequence",
+          "group_type": "H"
+        },
+        {
+          "id": "H21_2",
+          "name": "Right Arrow",
+          "usage": "Navigates forward in history, selection, or sequence",
+          "group_type": "H"
+        },
+        {
+          "id": "H22_1",
+          "name": "Package Icon",
+          "usage": "Represents a software package, module, or component",
+          "group_type": "H"
+        },
+        {
+          "id": "H23_1",
+          "name": "else Keyword",
+          "usage": "Indicates the 'else' block in a conditional programming statement",
+          "group_type": "H"
+        },
+        {
+          "id": "H24_1",
+          "name": "Error Message",
+          "usage": "Displays an error indicating that a calculator window was not found after launch",
+          "group_type": "H"
+        },
+        {
+          "id": "H25_1",
+          "name": "Return Statement",
+          "usage": "Represents a programming statement that returns null values",
+          "group_type": "H"
+        }
+      ],
+      "raw_response": "H0_1: \"File Icon\" | Usage: \"Represents a project or file-related action like New File or Open Project\"\nH0_2: \"RUN AND DEBUG\" | Usage: \"Initiates the execution of the code with debugging functionalities enabled\"\nH0_3: \"No Configurations\" | Usage: \"Displays and allows selection of different run and debug configurations\"\nH0_4: \"Gear Icon\" | Usage: \"Opens settings or configuration options for the application\"\nH0_5: \"More Options Icon\" | Usage: \"Reveals additional options or a context menu for related actions\"\nH0_6: \"agent.py\" | Usage: \"Represents an open file named agent.py, with an option to close it\"\nH0_7: \"main.py\" | Usage: \"Represents an open file named main.py in the editor\"\nH1_1: \"Bug Icon\" | Usage: \"Accesses debugger-related functionalities and settings\"\nH1_2: \"File\" | Usage: \"Menu for operations related to files, such as opening, saving, or creating\"\nH1_3: \"Edit\" | Usage: \"Menu for editing operations like cut, copy, paste, undo, and redo\"\nH1_4: \"Selection\" | Usage: \"Menu for options related to selecting elements or text within the interface\"\nH1_5: \"View\" | Usage: \"Menu for controlling the visibility of UI elements or changing the layout\"\nH1_6: \"Go\" | Usage: \"Menu for navigation, such as jumping to a specific line or definition in code\"\nH1_7: \"Run\" | Usage: \"Menu for executing code or managing active debugging sessions\"\nH1_8: \"Terminal\" | Usage: \"Menu for interacting with the integrated command-line terminal\"\nH1_9: \"Help\" | Usage: \"Menu for accessing documentation, tutorials, or support resources\"\nH2_1: \"WATCH\" | Usage: \"Section or menu for monitoring the values of variables during debugging\"\nH3_1: \"Step Over Icon\" | Usage: \"Debugger control to execute the current line and step to the next, skipping function calls\"\nH3_2: \"Debugger Control Group\" | Usage: \"Contains common debugger actions like stop, step into, and step out\"\nH3_3: \"Continue Icon\" | Usage: \"Debugger control to resume program execution until the next breakpoint\"\nH4_1: \"Blank Button\" | Usage: \"An empty or inactive button placeholder in the UI\"\nH5_1: \"CALL STACK\" | Usage: \"Displays the sequence of function calls that led to the current point of execution\"\nH6_1: \"BREAKPOINTS\" | Usage: \"Manages points in the code where the program execution will pause during debugging\"\nH7_1: \"VARIABLES\" | Usage: \"Displays and allows inspection of variables' values during program execution\"\nH8_1: \"Value 0\" | Usage: \"Displays a numerical value, likely indicating a count or state of zero\"\nH8_2: \"Delta Icon\" | Usage: \"Represents change, difference, or an operation related to numerical values\"\nH8_3: \"Value 0\" | Usage: \"Displays a numerical value, likely indicating a count or state of zero\"\nH9_1: \"Target Icon\" | Usage: \"Represents a focus point, a specific aim, or a selection target\"\nH9_2: \"PS Icon\" | Usage: \"Identifier for a process or system, possibly related to process status or PowerShell\"\nH10_1: \"Empty Document Icon\" | Usage: \"Represents a new or blank document or file\"\nH11_1: \"x5clauncher\" | Usage: \"Text identifier for a specific launcher application or component\"\nH11_2: \"'51211'\" | Usage: \"A numeric identifier, potentially representing a port number or process ID\"\nH11_3: \"Placeholder Dashes\" | Usage: \"Indicates an unassigned, null, or empty value\"\nH12_1: \"Input Prompt Text\" | Usage: \"Prompts the user to enter a calculation task or query\"\nH12_2: \"Example Input Text\" | Usage: \"Provides an example of valid input for the calculation task\"\nH13_1: \"Task Start Message\" | Usage: \"Informs the user that a task has started based on their input\"\nH14_1: \"Launch Attempt Message\" | Usage: \"Indicates that an attempt to launch an application is in progress\"\nH15_1: \"OUTPUT Tab\" | Usage: \"Displays the standard output messages from the running program\"\nH15_2: \"DEBUG CONSOLE Tab\" | Usage: \"Provides an interactive console for debugging commands and their output\"\nH15_3: \"TERMINAL Tab\" | Usage: \"Accesses the integrated command-line interface for system interactions\"\nH15_4: \"PORTS Tab\" | Usage: \"Manages or displays information about network ports being used\"\nH16_1: \"Launcher Path\" | Usage: \"Displays the file path of a debugpy launcher module\"\nH16_2: \"'51211'\" | Usage: \"A numeric identifier or port number, likely associated with the launcher\"\nH17_1: \"Function Definition\" | Usage: \"Displays a line of code defining an asynchronous function\"\nH18_1: \"Ampersand Symbol\" | Usage: \"Represents a logical AND operation or a process running in the background\"\nH19_1: \"Warning Message\" | Usage: \"Alerts the user that a calculator window's activity could not be confirmed\"\nH20_1: \"Focus Fallback Message\" | Usage: \"Explains an action taken to ensure window focus in a fallback scenario\"\nH21_1: \"Left Arrow\" | Usage: \"Navigates backward in history, selection, or sequence\"\nH21_2: \"Right Arrow\" | Usage: \"Navigates forward in history, selection, or sequence\"\nH22_1: \"Package Icon\" | Usage: \"Represents a software package, module, or component\"\nH23_1: \"else Keyword\" | Usage: \"Indicates the 'else' block in a conditional programming statement\"\nH24_1: \"Error Message\" | Usage: \"Displays an error indicating that a calculator window was not found after launch\"\nH25_1: \"Return Statement\" | Usage: \"Represents a programming statement that returns null values\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_1_53_bboxes.png",
+      "image_name": "combined_groups_1_53_bboxes.png",
+      "icons_found": 53,
+      "icons": [
+        {
+          "id": "HL0_1",
+          "name": "Activation attempt 3 failed: Error code from windows: 0 - The operation completed successfully.",
+          "usage": "Displays a system status or error message",
+          "group_type": "H"
+        },
+        {
+          "id": "HL1_1",
+          "name": "Unreadable Text Block",
+          "usage": "Represents a section of text, possibly a log or output, that is not clearly legible",
+          "group_type": "H"
+        },
+        {
+          "id": "H26_1",
+          "name": "print(\\\" Warning: Could not confirm Calculator window is maximized.\\\")",
+          "usage": "Code or console output showing a warning message",
+          "group_type": "H"
+        },
+        {
+          "id": "H27_1",
+          "name": "# Return a snapshot of its geometry at this point",
+          "usage": "Code comment explaining the purpose of a section of code",
+          "group_type": "H"
+        },
+        {
+          "id": "H28_1",
+          "name": "return calculator_window, {",
+          "usage": "Code snippet returning an object and opening a dictionary",
+          "group_type": "H"
+        },
+        {
+          "id": "H29_1",
+          "name": "return calculator_window, {",
+          "usage": "Code snippet returning an object and opening a dictionary",
+          "group_type": "H"
+        },
+        {
+          "id": "H30_1",
+          "name": "\\\"top\\",
+          "usage": "Key or string literal within a code structure",
+          "group_type": "H"
+        },
+        {
+          "id": "H31_1",
+          "name": "\\\"height\\\": calculator_window.height",
+          "usage": "Key-value pair defining a property in a code structure",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_1",
+          "name": "Hyphen Separator",
+          "usage": "Represents a separator or a line of code",
+          "group_type": "H"
+        },
+        {
+          "id": "H32_2",
+          "name": "'c:\\\\Users\\\\shiv-nlp\\\\Downloads\\\\Computer-AI-Agent-main\\\\Computer-AI-Agent-main\\\\agent.py'",
+          "usage": "File path indicating the location of a script or file",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_1",
+          "name": "More Options Dots",
+          "usage": "Indicates that more options or a context menu are available",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_2",
+          "name": "Pause Icon",
+          "usage": "Pauses the execution of a process or playback",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_3",
+          "name": "Step Back Icon",
+          "usage": "Steps back or undoes the last action in a debugger or process",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_4",
+          "name": "Step Into Icon",
+          "usage": "Steps into a function call in a debugger",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_5",
+          "name": "Step Out Icon",
+          "usage": "Steps out of the current function call in a debugger",
+          "group_type": "H"
+        },
+        {
+          "id": "H33_6",
+          "name": "Run Again Icon",
+          "usage": "Restarts or reruns the current process or script",
+          "group_type": "H"
+        },
+        {
+          "id": "H34_1",
+          "name": "Calculator Label",
+          "usage": "Text label identifying an application or function related to a calculator",
+          "group_type": "H"
+        },
+        {
+          "id": "H35_1",
+          "name": "add 2 and 3",
+          "usage": "Text representing a mathematical or code operation",
+          "group_type": "H"
+        },
+        {
+          "id": "H36_1",
+          "name": "Closing Parenthesis",
+          "usage": "Closing bracket in a code or text structure",
+          "group_type": "H"
+        },
+        {
+          "id": "H37_1",
+          "name": "is Label",
+          "usage": "Text indicating a comparison or assignment",
+          "group_type": "H"
+        },
+        {
+          "id": "H38_1",
+          "name": "Closing Parenthesis",
+          "usage": "Closing bracket in a code or text structure",
+          "group_type": "H"
+        },
+        {
+          "id": "H39_1",
+          "name": "Save File Icon",
+          "usage": "Saves the current file or content to a disk",
+          "group_type": "H"
+        },
+        {
+          "id": "H40_1",
+          "name": "Play/Run Arrow",
+          "usage": "Initiates the execution of a script or process",
+          "group_type": "H"
+        },
+        {
+          "id": "H40_2",
+          "name": "M Label",
+          "usage": "A single letter label, possibly a variable or placeholder",
+          "group_type": "H"
+        },
+        {
+          "id": "H41_1",
+          "name": "Status Bar Text",
+          "usage": "Displays current file information such as line/column, spacing, encoding, and language",
+          "group_type": "H"
+        },
+        {
+          "id": "H41_2",
+          "name": "Finish Setup Button",
+          "usage": "Button to complete a setup process, with version and environment details",
+          "group_type": "H"
+        },
+        {
+          "id": "H41_3",
+          "name": "Refresh Icon",
+          "usage": "Refreshes the current view or reloads data",
+          "group_type": "H"
+        },
+        {
+          "id": "H42_1",
+          "name": "Spaces: 4 Label",
+          "usage": "Indicates the current indentation setting for spaces",
+          "group_type": "H"
+        },
+        {
+          "id": "H43_1",
+          "name": "Text Formatting Options",
+          "usage": "Displays various text formatting options and a character/word count",
+          "group_type": "H"
+        },
+        {
+          "id": "H44_1",
+          "name": "LF Label",
+          "usage": "Indicates the Line Feed character setting for line endings",
+          "group_type": "H"
+        },
+        {
+          "id": "H45_1",
+          "name": "Python Debug Console Label",
+          "usage": "Label for the Python debug console, with associated action icons",
+          "group_type": "H"
+        },
+        {
+          "id": "H45_2",
+          "name": "More Options Dots",
+          "usage": "Indicates that more options or a context menu are available",
+          "group_type": "H"
+        },
+        {
+          "id": "H45_3",
+          "name": "Collapse Up Arrow",
+          "usage": "Collapses a section or moves an item upwards",
+          "group_type": "H"
+        },
+        {
+          "id": "H45_4",
+          "name": "Close Icon",
+          "usage": "Closes a window or removes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H46_1",
+          "name": "Settings Icon",
+          "usage": "Opens the settings or preferences for the application",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_1",
+          "name": "Move Up Arrow",
+          "usage": "Moves the selected item up in a list or hierarchy",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_2",
+          "name": "Move Down/Sort Icon",
+          "usage": "Moves the selected item down or changes sorting order",
+          "group_type": "H"
+        },
+        {
+          "id": "H47_3",
+          "name": "Close Icon",
+          "usage": "Closes a window or removes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_1",
+          "name": "Layout View Icon",
+          "usage": "Changes the display layout or view mode",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_2",
+          "name": "Minus Icon",
+          "usage": "Removes an item or collapses a section",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_3",
+          "name": "Window/Maximize Icon",
+          "usage": "Represents a window or an action to maximize it",
+          "group_type": "H"
+        },
+        {
+          "id": "H48_4",
+          "name": "Close Icon",
+          "usage": "Closes a window or removes an item",
+          "group_type": "H"
+        },
+        {
+          "id": "H49_1",
+          "name": "Numbered Icon",
+          "usage": "Indicates a specific count or a numbered item",
+          "group_type": "H"
+        },
+        {
+          "id": "H49_2",
+          "name": "Download Document Icon",
+          "usage": "Downloads or saves a document to a file",
+          "group_type": "H"
+        },
+        {
+          "id": "H50_1",
+          "name": "Down Arrow",
+          "usage": "Moves an item down or collapses a section",
+          "group_type": "H"
+        },
+        {
+          "id": "H50_2",
+          "name": "List View Icon",
+          "usage": "Changes the view to a list format or provides menu options",
+          "group_type": "H"
+        },
+        {
+          "id": "H51_1",
+          "name": "Save Icon",
+          "usage": "Saves the current document or changes",
+          "group_type": "H"
+        },
+        {
+          "id": "H52_1",
+          "name": "Save Icon (Alt)",
+          "usage": "An alternative or related save action for a document",
+          "group_type": "H"
+        },
+        {
+          "id": "H52_2",
+          "name": "Delete Document Icon",
+          "usage": "Deletes the selected document or file",
+          "group_type": "H"
+        },
+        {
+          "id": "H53_1",
+          "name": "Image/Media Icon",
+          "usage": "Represents an image file or a media content type",
+          "group_type": "H"
+        },
+        {
+          "id": "H54_1",
+          "name": "Play Icon",
+          "usage": "Starts playback or executes a script",
+          "group_type": "H"
+        },
+        {
+          "id": "H54_2",
+          "name": "Document Icon",
+          "usage": "Represents a general document or file",
+          "group_type": "H"
+        },
+        {
+          "id": "H54_3",
+          "name": "More Options Dots",
+          "usage": "Indicates that more options or a context menu are available",
+          "group_type": "H"
+        }
+      ],
+      "raw_response": "HL0_1: \"Activation attempt 3 failed: Error code from windows: 0 - The operation completed successfully.\" | Usage: \"Displays a system status or error message\"\nHL1_1: \"Unreadable Text Block\" | Usage: \"Represents a section of text, possibly a log or output, that is not clearly legible\"\nH26_1: \"print(\\\" Warning: Could not confirm Calculator window is maximized.\\\")\" | Usage: \"Code or console output showing a warning message\"\nH27_1: \"# Return a snapshot of its geometry at this point\" | Usage: \"Code comment explaining the purpose of a section of code\"\nH28_1: \"return calculator_window, {\" | Usage: \"Code snippet returning an object and opening a dictionary\"\nH29_1: \"return calculator_window, {\" | Usage: \"Code snippet returning an object and opening a dictionary\"\nH30_1: \"\\\"top\\\"\" | Usage: \"Key or string literal within a code structure\"\nH31_1: \"\\\"height\\\": calculator_window.height\" | Usage: \"Key-value pair defining a property in a code structure\"\nH32_1: \"Hyphen Separator\" | Usage: \"Represents a separator or a line of code\"\nH32_2: \"'c:\\\\Users\\\\shiv-nlp\\\\Downloads\\\\Computer-AI-Agent-main\\\\Computer-AI-Agent-main\\\\agent.py'\" | Usage: \"File path indicating the location of a script or file\"\nH33_1: \"More Options Dots\" | Usage: \"Indicates that more options or a context menu are available\"\nH33_2: \"Pause Icon\" | Usage: \"Pauses the execution of a process or playback\"\nH33_3: \"Step Back Icon\" | Usage: \"Steps back or undoes the last action in a debugger or process\"\nH33_4: \"Step Into Icon\" | Usage: \"Steps into a function call in a debugger\"\nH33_5: \"Step Out Icon\" | Usage: \"Steps out of the current function call in a debugger\"\nH33_6: \"Run Again Icon\" | Usage: \"Restarts or reruns the current process or script\"\nH34_1: \"Calculator Label\" | Usage: \"Text label identifying an application or function related to a calculator\"\nH35_1: \"add 2 and 3\" | Usage: \"Text representing a mathematical or code operation\"\nH36_1: \"Closing Parenthesis\" | Usage: \"Closing bracket in a code or text structure\"\nH37_1: \"is Label\" | Usage: \"Text indicating a comparison or assignment\"\nH38_1: \"Closing Parenthesis\" | Usage: \"Closing bracket in a code or text structure\"\nH39_1: \"Save File Icon\" | Usage: \"Saves the current file or content to a disk\"\nH40_1: \"Play/Run Arrow\" | Usage: \"Initiates the execution of a script or process\"\nH40_2: \"M Label\" | Usage: \"A single letter label, possibly a variable or placeholder\"\nH41_1: \"Status Bar Text\" | Usage: \"Displays current file information such as line/column, spacing, encoding, and language\"\nH41_2: \"Finish Setup Button\" | Usage: \"Button to complete a setup process, with version and environment details\"\nH41_3: \"Refresh Icon\" | Usage: \"Refreshes the current view or reloads data\"\nH42_1: \"Spaces: 4 Label\" | Usage: \"Indicates the current indentation setting for spaces\"\nH43_1: \"Text Formatting Options\" | Usage: \"Displays various text formatting options and a character/word count\"\nH44_1: \"LF Label\" | Usage: \"Indicates the Line Feed character setting for line endings\"\nH45_1: \"Python Debug Console Label\" | Usage: \"Label for the Python debug console, with associated action icons\"\nH45_2: \"More Options Dots\" | Usage: \"Indicates that more options or a context menu are available\"\nH45_3: \"Collapse Up Arrow\" | Usage: \"Collapses a section or moves an item upwards\"\nH45_4: \"Close Icon\" | Usage: \"Closes a window or removes an item\"\nH46_1: \"Settings Icon\" | Usage: \"Opens the settings or preferences for the application\"\nH47_1: \"Move Up Arrow\" | Usage: \"Moves the selected item up in a list or hierarchy\"\nH47_2: \"Move Down/Sort Icon\" | Usage: \"Moves the selected item down or changes sorting order\"\nH47_3: \"Close Icon\" | Usage: \"Closes a window or removes an item\"\nH48_1: \"Layout View Icon\" | Usage: \"Changes the display layout or view mode\"\nH48_2: \"Minus Icon\" | Usage: \"Removes an item or collapses a section\"\nH48_3: \"Window/Maximize Icon\" | Usage: \"Represents a window or an action to maximize it\"\nH48_4: \"Close Icon\" | Usage: \"Closes a window or removes an item\"\nH49_1: \"Numbered Icon\" | Usage: \"Indicates a specific count or a numbered item\"\nH49_2: \"Download Document Icon\" | Usage: \"Downloads or saves a document to a file\"\nH50_1: \"Down Arrow\" | Usage: \"Moves an item down or collapses a section\"\nH50_2: \"List View Icon\" | Usage: \"Changes the view to a list format or provides menu options\"\nH51_1: \"Save Icon\" | Usage: \"Saves the current document or changes\"\nH52_1: \"Save Icon (Alt)\" | Usage: \"An alternative or related save action for a document\"\nH52_2: \"Delete Document Icon\" | Usage: \"Deletes the selected document or file\"\nH53_1: \"Image/Media Icon\" | Usage: \"Represents an image file or a media content type\"\nH54_1: \"Play Icon\" | Usage: \"Starts playback or executes a script\"\nH54_2: \"Document Icon\" | Usage: \"Represents a general document or file\"\nH54_3: \"More Options Dots\" | Usage: \"Indicates that more options or a context menu are available\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_2_49_bboxes.png",
+      "image_name": "combined_groups_2_49_bboxes.png",
+      "icons_found": 37,
+      "icons": [
+        {
+          "id": "HL2_1",
+          "name": "Activation attempt 2 failed: Error code from Windows: 0 - The operation completed successfully.",
+          "usage": "System message indicating a successful operation despite an initial 'failed' status for an activation attempt.",
+          "group_type": "H"
+        },
+        {
+          "id": "HL3_1",
+          "name": "Computer-AI-Agent-main",
+          "usage": "Text indicating the name or main directory of a project or application.",
+          "group_type": "H"
+        },
+        {
+          "id": "HL4_1",
+          "name": "Activation attempt 1 failed: Error code from Windows: 0 - The operation completed successfully.",
+          "usage": "System message indicating a successful operation despite an initial 'failed' status for an activation attempt.",
+          "group_type": "H"
+        },
+        {
+          "id": "HL5_1",
+          "name": "'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cDownloads\\x5cComputer-AI-Agent-main\\x5cagent.py' ;88c9846a-856b-4007-a82b-b78152830f00Gemini client in",
+          "usage": "File path and identifier for a Python script likely related to a Gemini client.",
+          "group_type": "H"
+        },
+        {
+          "id": "HL6_1",
+          "name": "& 'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cDownloads\\x5cComputer-AI-Agent-main\\x5cComputer-AI-Agent-main\\x5cvenv\\x5cScripts\\python.exe' 'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cvscode\\x5cextensions\\x5cms-python.debug",
+          "usage": "Command line showing the execution of a Python script within a virtual environment and a debugging path.",
+          "group_type": "H"
+        },
+        {
+          "id": "V0_1",
+          "name": "Magnifying Glass",
+          "usage": "Tool for searching or zooming within the interface.",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_2",
+          "name": "Two Connected Circles",
+          "usage": "Represents connection, relationship, or flow between elements.",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_3",
+          "name": "Cube with Arrow",
+          "usage": "Adds or imports a new object or element into the scene or project.",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_4",
+          "name": "Square with Arrows",
+          "usage": "Tool for moving or transforming elements within the interface.",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_5",
+          "name": "Grid/Table Icon",
+          "usage": "Displays data or elements in a structured grid or table format.",
+          "group_type": "V"
+        },
+        {
+          "id": "V0_6",
+          "name": "Flask Icon",
+          "usage": "Represents testing, experimentation, or scientific tools.",
+          "group_type": "V"
+        },
+        {
+          "id": "V1_1",
+          "name": "Document Icon",
+          "usage": "Represents a new document, file, or a file-related action.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_1",
+          "name": "agent.py > main_task",
+          "usage": "Represents a hierarchy or sequence of operations, indicating a main task within an agent.py script.",
+          "group_type": "V"
+        },
+        {
+          "id": "V2_2",
+          "name": "async",
+          "usage": "Indicates an asynchronous operation or state for a process.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_1",
+          "name": "48",
+          "usage": "Button or display showing the numerical value 48.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_2",
+          "name": "109",
+          "usage": "Button or display showing the numerical value 109.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_3",
+          "name": "110",
+          "usage": "Button or display showing the numerical value 110.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_4",
+          "name": "111",
+          "usage": "Button or display showing the numerical value 111.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_5",
+          "name": "112",
+          "usage": "Button or display showing the numerical value 112.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_6",
+          "name": "113",
+          "usage": "Button or display showing the numerical value 113.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_7",
+          "name": "114",
+          "usage": "Button or display showing the numerical value 114.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_8",
+          "name": "115",
+          "usage": "Button or display showing the numerical value 115.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_9",
+          "name": "116",
+          "usage": "Button or display showing the numerical value 116.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_10",
+          "name": "117",
+          "usage": "Button or display showing the numerical value 117.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_11",
+          "name": "118",
+          "usage": "Button or display showing the numerical value 118.",
+          "group_type": "V"
+        },
+        {
+          "id": "V3_12",
+          "name": "119",
+          "usage": "Button or display showing the numerical value 119.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_1",
+          "name": "\\\"left\\\": calculator_window.left,",
+          "usage": "Code snippet defining the 'left' position property of a calculator window.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_2",
+          "name": "\\\"top\\\": calculator_window.top,",
+          "usage": "Code snippet defining the 'top' position property of a calculator window.",
+          "group_type": "V"
+        },
+        {
+          "id": "V4_3",
+          "name": "\\\"width\\\": calculator_window.",
+          "usage": "Code snippet defining the 'width' property of a calculator window.",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_1",
+          "name": "}",
+          "usage": "Closing curly brace, used to end a code block, dictionary, or JSON object.",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_2",
+          "name": "else:",
+          "usage": "Python keyword 'else', used to define an alternative branch in a conditional statement.",
+          "group_type": "V"
+        },
+        {
+          "id": "V5_3",
+          "name": "#",
+          "usage": "Hash symbol, typically indicates a comment in code or a number sign.",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_1",
+          "name": "# Still return it and its current geometry",
+          "usage": "Code comment explaining the intent to return an object along with its geometry data.",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_2",
+          "name": "\\\"left\\\": calculator_window.left,",
+          "usage": "Code snippet defining the 'left' position property of a calculator window.",
+          "group_type": "V"
+        },
+        {
+          "id": "V6_3",
+          "name": "\\\"top\\\": calculator_window.",
+          "usage": "Code snippet defining the 'top' position property of a calculator window.",
+          "group_type": "V"
+        },
+        {
+          "id": "V7_1",
+          "name": "PS C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main>",
+          "usage": "PowerShell prompt showing the current working directory path for a project.",
+          "group_type": "V"
+        },
+        {
+          "id": "V8_1",
+          "name": "lized successfully.",
+          "usage": "Partial status message indicating a successful completion or initialization.",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "HL2_1: \"Activation attempt 2 failed: Error code from Windows: 0 - The operation completed successfully.\" | Usage: \"System message indicating a successful operation despite an initial 'failed' status for an activation attempt.\"\nHL3_1: \"Computer-AI-Agent-main\" | Usage: \"Text indicating the name or main directory of a project or application.\"\nHL4_1: \"Activation attempt 1 failed: Error code from Windows: 0 - The operation completed successfully.\" | Usage: \"System message indicating a successful operation despite an initial 'failed' status for an activation attempt.\"\nHL5_1: \"'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cDownloads\\x5cComputer-AI-Agent-main\\x5cagent.py' ;88c9846a-856b-4007-a82b-b78152830f00Gemini client in\" | Usage: \"File path and identifier for a Python script likely related to a Gemini client.\"\nHL6_1: \"& 'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cDownloads\\x5cComputer-AI-Agent-main\\x5cComputer-AI-Agent-main\\x5cvenv\\x5cScripts\\python.exe' 'c:\\x5cUsers\\x5cshiv\\x5cnlp\\x5cvscode\\x5cextensions\\x5cms-python.debug\" | Usage: \"Command line showing the execution of a Python script within a virtual environment and a debugging path.\"\nV0_1: \"Magnifying Glass\" | Usage: \"Tool for searching or zooming within the interface.\"\nV0_2: \"Two Connected Circles\" | Usage: \"Represents connection, relationship, or flow between elements.\"\nV0_3: \"Cube with Arrow\" | Usage: \"Adds or imports a new object or element into the scene or project.\"\nV0_4: \"Square with Arrows\" | Usage: \"Tool for moving or transforming elements within the interface.\"\nV0_5: \"Grid/Table Icon\" | Usage: \"Displays data or elements in a structured grid or table format.\"\nV0_6: \"Flask Icon\" | Usage: \"Represents testing, experimentation, or scientific tools.\"\nV1_1: \"Document Icon\" | Usage: \"Represents a new document, file, or a file-related action.\"\nV2_1: \"agent.py > main_task\" | Usage: \"Represents a hierarchy or sequence of operations, indicating a main task within an agent.py script.\"\nV2_2: \"async\" | Usage: \"Indicates an asynchronous operation or state for a process.\"\nV3_1: \"48\" | Usage: \"Button or display showing the numerical value 48.\"\nV3_2: \"109\" | Usage: \"Button or display showing the numerical value 109.\"\nV3_3: \"110\" | Usage: \"Button or display showing the numerical value 110.\"\nV3_4: \"111\" | Usage: \"Button or display showing the numerical value 111.\"\nV3_5: \"112\" | Usage: \"Button or display showing the numerical value 112.\"\nV3_6: \"113\" | Usage: \"Button or display showing the numerical value 113.\"\nV3_7: \"114\" | Usage: \"Button or display showing the numerical value 114.\"\nV3_8: \"115\" | Usage: \"Button or display showing the numerical value 115.\"\nV3_9: \"116\" | Usage: \"Button or display showing the numerical value 116.\"\nV3_10: \"117\" | Usage: \"Button or display showing the numerical value 117.\"\nV3_11: \"118\" | Usage: \"Button or display showing the numerical value 118.\"\nV3_12: \"119\" | Usage: \"Button or display showing the numerical value 119.\"\nV4_1: \"\\\"left\\\": calculator_window.left,\" | Usage: \"Code snippet defining the 'left' position property of a calculator window.\"\nV4_2: \"\\\"top\\\": calculator_window.top,\" | Usage: \"Code snippet defining the 'top' position property of a calculator window.\"\nV4_3: \"\\\"width\\\": calculator_window.\" | Usage: \"Code snippet defining the 'width' property of a calculator window.\"\nV5_1: \"}\" | Usage: \"Closing curly brace, used to end a code block, dictionary, or JSON object.\"\nV5_2: \"else:\" | Usage: \"Python keyword 'else', used to define an alternative branch in a conditional statement.\"\nV5_3: \"#\" | Usage: \"Hash symbol, typically indicates a comment in code or a number sign.\"\nV6_1: \"# Still return it and its current geometry\" | Usage: \"Code comment explaining the intent to return an object along with its geometry data.\"\nV6_2: \"\\\"left\\\": calculator_window.left,\" | Usage: \"Code snippet defining the 'left' position property of a calculator window.\"\nV6_3: \"\\\"top\\\": calculator_window.\" | Usage: \"Code snippet defining the 'top' position property of a calculator window.\"\nV7_1: \"PS C:\\Users\\shiv-nlp\\Downloads\\Computer-AI-Agent-main\\Computer-AI-Agent-main>\" | Usage: \"PowerShell prompt showing the current working directory path for a project.\"\nV8_1: \"lized successfully.\" | Usage: \"Partial status message indicating a successful completion or initialization.\"",
+      "analysis_success": true
+    },
+    {
+      "image_path": "direct:combined_groups_3_15_bboxes.png",
+      "image_name": "combined_groups_3_15_bboxes.png",
+      "icons_found": 14,
+      "icons": [
+        {
+          "id": "V9_1",
+          "name": "Found Calculator window: 'Calculator'",
+          "usage": "Text indicating a specific application window has been detected or found.",
+          "group_type": "V"
+        },
+        {
+          "id": "V9_2",
+          "name": "Retrying activation (attempt 2)...",
+          "usage": "Status message indicating a process is repeatedly attempting activation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V9_3",
+          "name": "Retrying activation (attempt 2)...",
+          "usage": "Status message indicating a process is repeatedly attempting activation.",
+          "group_type": "V"
+        },
+        {
+          "id": "V10_1",
+          "name": "Raised Exceptions Checkbox",
+          "usage": "Toggles whether 'raised exceptions' are considered or handled.",
+          "group_type": "V"
+        },
+        {
+          "id": "V10_2",
+          "name": "Uncaught Exceptions Checkbox",
+          "usage": "Toggles whether 'uncaught exceptions' are considered or handled.",
+          "group_type": "V"
+        },
+        {
+          "id": "V10_3",
+          "name": "User Uncaught Exceptions Checkbox",
+          "usage": "Toggles whether 'user uncaught exceptions' are considered or handled.",
+          "group_type": "V"
+        },
+        {
+          "id": "V11_1",
+          "name": "User Profile Icon",
+          "usage": "Represents user account, profile, or login status.",
+          "group_type": "V"
+        },
+        {
+          "id": "V11_2",
+          "name": "Settings with Notification Icon",
+          "usage": "Indicates settings or configuration options, possibly with an active notification or alert.",
+          "group_type": "V"
+        },
+        {
+          "id": "V12_1",
+          "name": "665 Count Badge",
+          "usage": "Displays a numerical count of 665, likely for a specific category or event.",
+          "group_type": "V"
+        },
+        {
+          "id": "V12_2",
+          "name": "686 Count Badge",
+          "usage": "Displays a numerical count of 686, likely for a specific category or event.",
+          "group_type": "V"
+        },
+        {
+          "id": "V13_1",
+          "name": "Red Dot Indicator",
+          "usage": "Indicates a status such as recording, active, or a breakpoint in a debugging context.",
+          "group_type": "V"
+        },
+        {
+          "id": "V13_2",
+          "name": "Red Dot Indicator",
+          "usage": "Indicates a status such as recording, active, or a breakpoint in a debugging context.",
+          "group_type": "V"
+        },
+        {
+          "id": "V14_1",
+          "name": "main.py Checkbox",
+          "usage": "Toggles the inclusion or processing of the 'main.py' file.",
+          "group_type": "V"
+        },
+        {
+          "id": "V14_2",
+          "name": "main.py Checkbox",
+          "usage": "Toggles the inclusion or processing of the 'main.py' file.",
+          "group_type": "V"
+        }
+      ],
+      "raw_response": "V9_1: \"Found Calculator window: 'Calculator'\" | Usage: \"Text indicating a specific application window has been detected or found.\"\nV9_2: \"Retrying activation (attempt 2)...\" | Usage: \"Status message indicating a process is repeatedly attempting activation.\"\nV9_3: \"Retrying activation (attempt 2)...\" | Usage: \"Status message indicating a process is repeatedly attempting activation.\"\nV10_1: \"Raised Exceptions Checkbox\" | Usage: \"Toggles whether 'raised exceptions' are considered or handled.\"\nV10_2: \"Uncaught Exceptions Checkbox\" | Usage: \"Toggles whether 'uncaught exceptions' are considered or handled.\"\nV10_3: \"User Uncaught Exceptions Checkbox\" | Usage: \"Toggles whether 'user uncaught exceptions' are considered or handled.\"\nV11_1: \"User Profile Icon\" | Usage: \"Represents user account, profile, or login status.\"\nV11_2: \"Settings with Notification Icon\" | Usage: \"Indicates settings or configuration options, possibly with an active notification or alert.\"\nV12_1: \"665 Count Badge\" | Usage: \"Displays a numerical count of 665, likely for a specific category or event.\"\nV12_2: \"686 Count Badge\" | Usage: \"Displays a numerical count of 686, likely for a specific category or event.\"\nV13_1: \"Red Dot Indicator\" | Usage: \"Indicates a status such as recording, active, or a breakpoint in a debugging context.\"\nV13_2: \"Red Dot Indicator\" | Usage: \"Indicates a status such as recording, active, or a breakpoint in a debugging context.\"\nV14_1: \"main.py Checkbox\" | Usage: \"Toggles the inclusion or processing of the 'main.py' file.\"\nV14_2: \"main.py Checkbox\" | Usage: \"Toggles the inclusion or processing of the 'main.py' file.\"",
+      "analysis_success": true
+    }
+  ]
+}
