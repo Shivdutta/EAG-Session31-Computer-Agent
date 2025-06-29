@@ -85,6 +85,12 @@ The agent follows a sophisticated pipeline to achieve GUI automation:
 *   **Environment Management:** `python-dotenv`
 *   **Utilities:** `subprocess`
 
+<img width="620" src="computer-auto.png">
+
+* ### [Youtube >> Computer/OS Agent ](https://www.youtube.com/watch?v=vypuZupRcJY)
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
